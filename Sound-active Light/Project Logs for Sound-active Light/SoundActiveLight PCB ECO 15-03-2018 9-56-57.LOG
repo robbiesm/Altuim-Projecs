@@ -1,0 +1,7 @@
+Added Component: Designator=r3(0603)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Button Pin=r3-1
+Added Pin To Net: NetName=VCC Pin=r3-2
+Added Member To Class: ClassName=µController Member=Component r3 10k
+Added Room: Name=PowerSupply
+Added Room: Name=µController

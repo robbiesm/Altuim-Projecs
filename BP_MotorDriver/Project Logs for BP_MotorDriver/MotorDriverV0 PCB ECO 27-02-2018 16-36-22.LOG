@@ -1,0 +1,25 @@
+Added Component: Designator=tp2_U_M_Driver1(Test Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=tp2_U_M_Driver2(Test Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=tp2_U_M_Driver3(Test Point)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=CS0 Pin=u1_U_M_Driver1-10
+Added Pin To Net: NetName=OUTB2_1 Pin=u1_U_M_Driver1-91
+Added Pin To Net: NetName=OUTB1_1 Pin=u1_U_M_Driver1-92
+Added Pin To Net: NetName=CS0 Pin=u1_U_M_Driver2-10
+Added Pin To Net: NetName=OUTB2_2 Pin=u1_U_M_Driver2-91
+Added Pin To Net: NetName=OUTB1_2 Pin=u1_U_M_Driver2-92
+Added Pin To Net: NetName=CS0 Pin=u1_U_M_Driver3-10
+Added Pin To Net: NetName=OUTB2_3 Pin=u1_U_M_Driver3-91
+Added Pin To Net: NetName=OUTB1_3 Pin=u1_U_M_Driver3-92
+Added Member To Class: ClassName=U_M_Driver1 Member=Component tp2_U_M_Driver1 (tp2) Test Point
+Added Member To Class: ClassName=U_M_Driver2 Member=Component tp2_U_M_Driver2 (tp2) Test Point
+Added Member To Class: ClassName=U_M_Driver3 Member=Component tp2_U_M_Driver3 (tp2) Test Point
+Added Room: Name=TOP Sheet
+Added Room: Name=U_Controller
+Added Room: Name=U_M_Driver1
+Added Room: Name=U_M_Driver2
+Added Room: Name=U_M_Driver3
+Added Room: Name=U_Power Supply
+Added Room: Name=U_Relais sheet

@@ -1,0 +1,20 @@
+Added Component: Designator=c36(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c37(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c38(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c39(0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=c36-1
+Added Pin To Net: NetName=Relay_COM Pin=c36-2
+Added Pin To Net: NetName=GND Pin=c37-1
+Added Pin To Net: NetName=Relay_COM Pin=c37-2
+Added Pin To Net: NetName=GND Pin=c38-1
+Added Pin To Net: NetName=Relay_COM Pin=c38-2
+Added Pin To Net: NetName=GND Pin=c39-1
+Added Pin To Net: NetName=Relay_COM Pin=c39-2
+Added Member To Class: ClassName=TOP Sheet Member=Component c36 1µF
+Added Member To Class: ClassName=TOP Sheet Member=Component c37 1µF
+Added Member To Class: ClassName=TOP Sheet Member=Component c38 1µF
+Added Member To Class: ClassName=TOP Sheet Member=Component c39 1µF

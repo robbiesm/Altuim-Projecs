@@ -1,0 +1,108 @@
+Added Component: Designator=c1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c4(Elco-C)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c5(Elco-C)
+Add component. Clean all parameters for all variants
+Added Component: Designator=d1(0805 - diode)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(DO-214AB (SMC))
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(DO-214AB (SMC))
+Add component. Clean all parameters for all variants
+Added Component: Designator=d?(0805 - diode)
+Add component. Clean all parameters for all variants
+Added Component: Designator=I1(DR125)
+Add component. Clean all parameters for all variants
+Added Component: Designator=p1(2x3-HeaderPin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=p2(1x3-HeaderPin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=p3(1x3-HeaderPin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P4(Power Jack)
+Add component. Clean all parameters for all variants
+Added Component: Designator=p?(1x2-HeaderPin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1(Crystal 488P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r?(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(TO-263-5)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Button Pin=p?-2
+Added Net: Name=Button
+Added Pin To Net: NetName=GND Pin=c1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=c4-1
+Added Pin To Net: NetName=GND Pin=c5-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=d?-2
+Added Pin To Net: NetName=GND Pin=p1-6
+Added Pin To Net: NetName=GND Pin=p2-1
+Added Pin To Net: NetName=GND Pin=p3-1
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=GND Pin=p?-1
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Net: Name=GND
+Added Pin To Net: NetName=LEDs Pin=p3-2
+Added Net: Name=LEDs
+Added Pin To Net: NetName=Mic Pin=p2-2
+Added Net: Name=Mic
+Added Pin To Net: NetName=MISO Pin=p1-1
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=p1-4
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=Q1-2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=Q1-1
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=Netc4_2 Pin=c4-2
+Added Pin To Net: NetName=Netc4_2 Pin=D2-1
+Added Pin To Net: NetName=Netc4_2 Pin=U2-1
+Added Net: Name=Netc4_2
+Added Pin To Net: NetName=Netd1_2 Pin=d1-2
+Added Pin To Net: NetName=Netd1_2 Pin=r1-1
+Added Net: Name=Netd1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=P4-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=I1-1
+Added Pin To Net: NetName=NetD3_1 Pin=U2-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=Netd?_1 Pin=d?-1
+Added Pin To Net: NetName=Netd?_1 Pin=r?-1
+Added Net: Name=Netd?_1
+Added Pin To Net: NetName=Netr1_2 Pin=r1-2
+Added Net: Name=Netr1_2
+Added Pin To Net: NetName=RESET Pin=p1-5
+Added Net: Name=RESET
+Added Pin To Net: NetName=SCK Pin=p1-3
+Added Net: Name=SCK
+Added Pin To Net: NetName=VCC Pin=c1-1
+Added Pin To Net: NetName=VCC Pin=c5-2
+Added Pin To Net: NetName=VCC Pin=d1-1
+Added Pin To Net: NetName=VCC Pin=I1-2
+Added Pin To Net: NetName=VCC Pin=p1-2
+Added Pin To Net: NetName=VCC Pin=p2-3
+Added Pin To Net: NetName=VCC Pin=p3-3
+Added Pin To Net: NetName=VCC Pin=r?-2
+Added Pin To Net: NetName=VCC Pin=U2-4
+Added Net: Name=VCC
+Added Class: Name=PowerSupply
+Added Class: Name=µController
+Added Room: Name=PowerSupply
+Added Room: Name=µController

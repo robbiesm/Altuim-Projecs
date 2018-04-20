@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=PowerSupply Member=H1
+Removed Member From Class: ClassName=PowerSupply Member=H2
+Removed Member From Class: ClassName=PowerSupply Member=H3
+Added Room: Name=PowerSupply
+Added Room: Name=Preamp&Filter

@@ -1,0 +1,15 @@
+Added Component: Designator=c16(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c17(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c18(0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=c16-1
+Added Pin To Net: NetName=GND Pin=c16-2
+Added Pin To Net: NetName=3V3 Pin=c17-1
+Added Pin To Net: NetName=GND Pin=c17-2
+Added Pin To Net: NetName=3V3 Pin=c18-1
+Added Pin To Net: NetName=GND Pin=c18-2
+Added Member To Class: ClassName=FPGA Member=Component c16 100nF
+Added Member To Class: ClassName=FPGA Member=Component c17 100nF
+Added Member To Class: ClassName=FPGA Member=Component c18 100nF

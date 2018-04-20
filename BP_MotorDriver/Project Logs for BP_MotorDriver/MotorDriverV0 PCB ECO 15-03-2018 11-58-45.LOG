@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VS Pin=D6-1
+Removed Pin From Net: NetName=NetD5_2 Pin=D6-2
+Change Component Footprint: Designator=D6 Old Footprint=TO-220AC New Footprint=D²PAK 3
+Change Component Comment : Designator=D6 Old Comment=VS-15TQ060PBF New Comment=NRVBB1060
+Added Pin To Net: NetName=NetD5_2 Pin=D6-1
+Added Pin To Net: NetName=NetD5_2 Pin=D6-3
+Added Pin To Net: NetName=VS Pin=D6-4
+Added Pin To Net: NetName=SW Pin=u5-2
+Added Pin To Net: NetName=Vin Pin=u5-14
+Added Pin To Net: NetName=PGND Pin=u5-16

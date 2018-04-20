@@ -1,0 +1,8 @@
+Change Component Comment : Designator=C9 Old Comment=Elco C New Comment=4.7µF
+Change Component Comment : Designator=C14 Old Comment=Elco C New Comment=4.7µF
+Change Component Comment : Designator=C15 Old Comment=Elco C New Comment=4.7µF
+Change Component Comment : Designator=C16 Old Comment=Elco C New Comment=4.7µF
+Change Component Comment : Designator=c5 Old Comment=Elco C New Comment=10µF
+Change Component Comment : Designator=c11 Old Comment=Elco C New Comment=10µF
+Added Room: Name=Amplifier&Filter
+Added Room: Name=Power Supply

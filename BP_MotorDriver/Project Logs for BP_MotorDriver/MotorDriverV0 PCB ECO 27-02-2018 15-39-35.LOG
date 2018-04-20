@@ -1,0 +1,28 @@
+Added Pin To Net: NetName=OUTB2_1 Pin=p3-1
+Added Pin To Net: NetName=OUTB1_1 Pin=p3-2
+Added Pin To Net: NetName=OUTA2_1 Pin=p3-3
+Added Pin To Net: NetName=OUTA1_1 Pin=p3-4
+Added Pin To Net: NetName=OUTB2_2 Pin=p4-1
+Added Pin To Net: NetName=OUTB1_2 Pin=p4-2
+Added Pin To Net: NetName=OUTA2_2 Pin=p4-3
+Added Pin To Net: NetName=OUTA1_2 Pin=p4-4
+Added Pin To Net: NetName=OUTB2_3 Pin=p5-1
+Added Pin To Net: NetName=OUTB1_3 Pin=p5-2
+Added Pin To Net: NetName=OUTA2_3 Pin=p5-3
+Added Pin To Net: NetName=OUTA1_3 Pin=p5-4
+Added Pin To Net: NetName=SCK Pin=u1_U_M_Driver1-10
+Added Pin To Net: NetName=PS Pin=u1_U_M_Driver1-91
+Added Pin To Net: NetName=PS Pin=u1_U_M_Driver1-92
+Added Pin To Net: NetName=SCK Pin=u1_U_M_Driver2-10
+Added Pin To Net: NetName=PS Pin=u1_U_M_Driver2-91
+Added Pin To Net: NetName=PS Pin=u1_U_M_Driver2-92
+Added Pin To Net: NetName=SCK Pin=u1_U_M_Driver3-10
+Added Pin To Net: NetName=PS Pin=u1_U_M_Driver3-91
+Added Pin To Net: NetName=PS Pin=u1_U_M_Driver3-92
+Added Room: Name=TOP Sheet
+Added Room: Name=U_Controller
+Added Room: Name=U_M_Driver1
+Added Room: Name=U_M_Driver2
+Added Room: Name=U_M_Driver3
+Added Room: Name=U_Power Supply
+Added Room: Name=U_Relais sheet

@@ -1,0 +1,18 @@
+Change Component Comment : Designator=c21 Old Comment=10n New Comment=100n
+Added Component: Designator=c22(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c23(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c24(1206)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=c22-1
+Added Pin To Net: NetName=GND Pin=c22-2
+Added Pin To Net: NetName=VCC Pin=c23-1
+Added Pin To Net: NetName=GND Pin=c23-2
+Added Pin To Net: NetName=VCC Pin=c24-1
+Added Pin To Net: NetName=GND Pin=c24-2
+Added Member To Class: ClassName=Amplifier&Filter Member=Component c22 100n
+Added Member To Class: ClassName=Amplifier&Filter Member=Component c23 100n
+Added Member To Class: ClassName=Amplifier&Filter Member=Component c24 100n
+Added Room: Name=Amplifier&Filter
+Added Room: Name=Power Supply

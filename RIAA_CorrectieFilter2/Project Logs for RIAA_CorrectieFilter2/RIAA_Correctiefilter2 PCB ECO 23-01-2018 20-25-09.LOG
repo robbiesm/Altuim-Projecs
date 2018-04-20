@@ -1,0 +1,5 @@
+Added Component: Designator=b*(Solder Bridge)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=PowerSupply Member=Component b* Solder Bridge
+Added Room: Name=PowerSupply
+Added Room: Name=Preamp&Filter

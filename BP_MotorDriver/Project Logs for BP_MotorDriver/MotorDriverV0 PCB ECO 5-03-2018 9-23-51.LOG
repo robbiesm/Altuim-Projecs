@@ -1,0 +1,40 @@
+Added Component: Designator=c31(0603)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3v3 Pin=c24-1
+Added Pin To Net: NetName=GND Pin=c31-1
+Added Pin To Net: NetName=Netb1_1 Pin=c31-2
+Added Pin To Net: NetName=3v3 Pin=d4-1
+Added Pin To Net: NetName=3v3 Pin=d9-1
+Added Pin To Net: NetName=3v3 Pin=d10-1
+Added Pin To Net: NetName=3v3 Pin=d11-1
+Added Pin To Net: NetName=3v3 Pin=d12-1
+Added Pin To Net: NetName=3v3 Pin=k1-8
+Added Pin To Net: NetName=3v3 Pin=k2-8
+Added Pin To Net: NetName=3v3 Pin=k3-8
+Added Pin To Net: NetName=3v3 Pin=k4-8
+Added Pin To Net: NetName=3v3 Pin=p20-3
+Added Pin To Net: NetName=3v3 Pin=p21-3
+Added Pin To Net: NetName=3v3 Pin=r19-2
+Added Pin To Net: NetName=CS0 Pin=u1_U_M_Driver1-10
+Added Pin To Net: NetName=OUTB2_1 Pin=u1_U_M_Driver1-91
+Added Pin To Net: NetName=OUTB1_1 Pin=u1_U_M_Driver1-92
+Added Pin To Net: NetName=CS0 Pin=u1_U_M_Driver2-10
+Added Pin To Net: NetName=OUTB2_2 Pin=u1_U_M_Driver2-91
+Added Pin To Net: NetName=OUTB1_2 Pin=u1_U_M_Driver2-92
+Added Pin To Net: NetName=CS0 Pin=u1_U_M_Driver3-10
+Added Pin To Net: NetName=OUTB2_3 Pin=u1_U_M_Driver3-91
+Added Pin To Net: NetName=OUTB1_3 Pin=u1_U_M_Driver3-92
+Added Pin To Net: NetName=3v3 Pin=u2-13
+Added Pin To Net: NetName=3v3 Pin=u2-19
+Added Pin To Net: NetName=Netc27_2 Pin=u5-2
+Added Pin To Net: NetName=Netc18_2 Pin=u5-14
+Added Pin To Net: NetName=GND Pin=u5-16
+Change Net Name : Old Net Name=3v3 New Net Name=Relay_COM
+Added Member To Class: ClassName=U_Power Supply Member=Component c31 10µF
+Added Room: Name=TOP Sheet
+Added Room: Name=U_Controller
+Added Room: Name=U_M_Driver1
+Added Room: Name=U_M_Driver2
+Added Room: Name=U_M_Driver3
+Added Room: Name=U_Power Supply
+Added Room: Name=U_Relais sheet

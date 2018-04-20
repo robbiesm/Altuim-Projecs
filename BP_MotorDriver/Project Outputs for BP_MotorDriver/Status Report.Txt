@@ -1,0 +1,19 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 15:09:05 On 26/03/2018
+
+Output: Stencil
+Type  : Gerber
+From  : PCB Document [MotorDriverV0.PcbDoc]
+   Generated File[MotorDriverV0.GTL]
+   Generated File[MotorDriverV0.GTP]
+   Generated File[MotorDriverV0.GTS]
+   Generated File[MotorDriverV0.RUL]
+   Generated File[MotorDriverV0.EXTREP]
+   Generated File[MotorDriverV0.REP]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 15:09:07 On 26/03/2018

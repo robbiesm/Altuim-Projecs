@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=Relay_OUT4 Pin=r25-2
+Removed Pin From Net: NetName=Relay_OUT3 Pin=r26-2
+Removed Pin From Net: NetName=Relay_OUT2 Pin=r27-2
+Removed Pin From Net: NetName=Relay_OUT1 Pin=r28-2
+Change Component Designator: OldDesignator=tp2_1 NewDesignator=tp2_U_M_Driver1
+Change Component Designator: OldDesignator=u1_1 NewDesignator=u1_U_M_Driver1
+Added Pin To Net: NetName=Relay_OUT1 Pin=r25-2
+Added Pin To Net: NetName=Relay_OUT2 Pin=r26-2
+Added Pin To Net: NetName=Relay_OUT3 Pin=r27-2
+Added Pin To Net: NetName=Relay_OUT4 Pin=r28-2
+Added Pin To Net: NetName=Netc27_2 Pin=u5-2
+Added Pin To Net: NetName=Netc18_2 Pin=u5-14
+Added Pin To Net: NetName=GND Pin=u5-16

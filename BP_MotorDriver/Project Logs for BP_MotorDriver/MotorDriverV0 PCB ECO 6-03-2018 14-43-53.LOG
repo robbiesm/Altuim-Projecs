@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=OUTA1_1 Pin=u1_U_M_Driver1-93
+Removed Pin From Net: NetName=OUTA2_1 Pin=u1_U_M_Driver1-94
+Removed Pin From Net: NetName=OUTA1_2 Pin=u1_U_M_Driver2-93
+Removed Pin From Net: NetName=OUTA2_2 Pin=u1_U_M_Driver2-94
+Removed Pin From Net: NetName=OUTA1_3 Pin=u1_U_M_Driver3-93
+Removed Pin From Net: NetName=OUTA2_3 Pin=u1_U_M_Driver3-94
+Added Pin To Net: NetName=OUTA2_1 Pin=u1_U_M_Driver1-93
+Added Pin To Net: NetName=OUTA1_1 Pin=u1_U_M_Driver1-94
+Added Pin To Net: NetName=OUTA2_2 Pin=u1_U_M_Driver2-93
+Added Pin To Net: NetName=OUTA1_2 Pin=u1_U_M_Driver2-94
+Added Pin To Net: NetName=OUTA2_3 Pin=u1_U_M_Driver3-93
+Added Pin To Net: NetName=OUTA1_3 Pin=u1_U_M_Driver3-94
+Added Pin To Net: NetName=Netc27_2 Pin=u5-2
+Added Pin To Net: NetName=Netc18_2 Pin=u5-14
+Added Pin To Net: NetName=GND Pin=u5-16

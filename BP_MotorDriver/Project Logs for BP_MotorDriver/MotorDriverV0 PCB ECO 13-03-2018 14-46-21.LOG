@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=VDD Pin=c10_U_M_Driver1-2
+Removed Pin From Net: NetName=VDD Pin=c10_U_M_Driver3-2
+Removed Pin From Net: NetName=VDD Pin=c11_U_M_Driver1-2
+Removed Pin From Net: NetName=VDD Pin=c11_U_M_Driver3-2
+Removed Pin From Net: NetName=VDD Pin=c12_U_M_Driver1-1
+Removed Pin From Net: NetName=VDD Pin=c12_U_M_Driver3-1
+Removed Pin From Net: NetName=VDD Pin=r22_U_M_Driver1-1
+Removed Pin From Net: NetName=VDD Pin=r22_U_M_Driver3-1
+Removed Pin From Net: NetName=VDD Pin=r23_U_M_Driver1-1
+Removed Pin From Net: NetName=VDD Pin=r23_U_M_Driver3-1
+Removed Pin From Net: NetName=VDD Pin=u1_U_M_Driver1-13
+Removed Pin From Net: NetName=VDD Pin=u1_U_M_Driver1-62
+Removed Pin From Net: NetName=VDD Pin=u1_U_M_Driver3-13
+Removed Pin From Net: NetName=VDD Pin=u1_U_M_Driver3-62
+Added Pin To Net: NetName=SW Pin=u5-2
+Added Pin To Net: NetName=Vin Pin=u5-14
+Added Pin To Net: NetName=PGND Pin=u5-16
+Change Net Name : Old Net Name=VDD New Net Name=VREG_U_M_Driver2
+Added Pin To Net: NetName=VREG_U_M_Driver1 Pin=c10_U_M_Driver1-2
+Added Pin To Net: NetName=VREG_U_M_Driver1 Pin=c11_U_M_Driver1-2
+Added Pin To Net: NetName=VREG_U_M_Driver1 Pin=c12_U_M_Driver1-1
+Added Pin To Net: NetName=VREG_U_M_Driver1 Pin=r22_U_M_Driver1-1
+Added Pin To Net: NetName=VREG_U_M_Driver1 Pin=r23_U_M_Driver1-1
+Added Pin To Net: NetName=VREG_U_M_Driver1 Pin=u1_U_M_Driver1-13
+Added Pin To Net: NetName=VREG_U_M_Driver1 Pin=u1_U_M_Driver1-62
+Added Net: Name=VREG_U_M_Driver1
+Added Pin To Net: NetName=VREG_U_M_Driver3 Pin=c10_U_M_Driver3-2
+Added Pin To Net: NetName=VREG_U_M_Driver3 Pin=c11_U_M_Driver3-2
+Added Pin To Net: NetName=VREG_U_M_Driver3 Pin=c12_U_M_Driver3-1
+Added Pin To Net: NetName=VREG_U_M_Driver3 Pin=r22_U_M_Driver3-1
+Added Pin To Net: NetName=VREG_U_M_Driver3 Pin=r23_U_M_Driver3-1
+Added Pin To Net: NetName=VREG_U_M_Driver3 Pin=u1_U_M_Driver3-13
+Added Pin To Net: NetName=VREG_U_M_Driver3 Pin=u1_U_M_Driver3-62
+Added Net: Name=VREG_U_M_Driver3

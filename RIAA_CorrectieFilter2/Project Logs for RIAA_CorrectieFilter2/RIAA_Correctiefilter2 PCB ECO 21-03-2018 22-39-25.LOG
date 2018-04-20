@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=VCC Pin=c4-2
+Removed Pin From Net: NetName=Netc9_2 Pin=c9-2
+Removed Pin From Net: NetName=Netc10_2 Pin=c10-2
+Removed Pin From Net: NetName=NetD1_1 Pin=D1-1
+Removed Pin From Net: NetName=NetD1_2 Pin=D1-2
+Removed Pin From Net: NetName=NetD1_2 Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=VCC Pin=r1-2
+Removed Member From Class: ClassName=PowerSupply Member=D?
+Change Component Comment : Designator=c13 Old Comment=* New Comment=1.5nF
+Change Component Comment : Designator=c14 Old Comment=* New Comment=1.5nF
+Change Component Comment : Designator=c7 Old Comment=* New Comment=2.2µF
+Change Component Comment : Designator=c8 Old Comment=* New Comment=2.2µF
+Change Component Comment : Designator=c11 Old Comment=* New Comment=6.8nF
+Change Component Comment : Designator=c12 Old Comment=* New Comment=6.8nF
+Change Component Comment : Designator=r6 Old Comment=* New Comment=10k
+Change Component Comment : Designator=r7 Old Comment=* New Comment=10k
+Change Component Comment : Designator=r1 Old Comment=* New Comment=10R
+Change Component Comment : Designator=c15 Old Comment=* New Comment=10µF
+Change Component Comment : Designator=c16 Old Comment=* New Comment=10µF
+Change Component Comment : Designator=c9 Old Comment=* New Comment=22µF
+Change Component Comment : Designator=c10 Old Comment=* New Comment=22µF
+Change Component Comment : Designator=c4 Old Comment=* New Comment=47µF
+Change Component Comment : Designator=r12 Old Comment=* New Comment=51k
+Change Component Comment : Designator=r13 Old Comment=* New Comment=51k
+Change Component Comment : Designator=r2 Old Comment=* New Comment=91k
+Change Component Comment : Designator=r4 Old Comment=* New Comment=91k
+Change Component Comment : Designator=r3 Old Comment=* New Comment=100k
+Change Component Comment : Designator=r5 Old Comment=* New Comment=100k
+Change Component Comment : Designator=c1 Old Comment=* New Comment=100µF
+Change Component Comment : Designator=c17 Old Comment=* New Comment=100µF
+Change Component Comment : Designator=c18 Old Comment=* New Comment=100µF
+Change Component Comment : Designator=r8 Old Comment=* New Comment=120k
+Change Component Comment : Designator=r9 Old Comment=* New Comment=120k
+Change Component Comment : Designator=r10 Old Comment=* New Comment=750k
+Change Component Comment : Designator=r11 Old Comment=* New Comment=750k
+Change Component Comment : Designator=P1 Old Comment=DC Power Jack New Comment=Power Jack
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Added Pin To Net: NetName=VCC Pin=b*-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D1-3
+Added Pin To Net: NetName=NetD1_2 Pin=P1-2
+Added Pin To Net: NetName=NetD1_2 Pin=P1-2
+Change Net Name : Old Net Name=Netc9_2 New Net Name=Netc11_1
+Change Net Name : Old Net Name=Netc10_2 New Net Name=Netc12_1
+Added Pin To Net: NetName=Netb*_1 Pin=b*-1
+Added Pin To Net: NetName=Netb*_1 Pin=c4-2
+Added Pin To Net: NetName=Netb*_1 Pin=r1-2
+Added Net: Name=Netb*_1
+Added Pin To Net: NetName=Netc3_2 Pin=r1-1
+Added Net: Name=Netc3_2
+Added Pin To Net: NetName=Netc9_2 Pin=c9-2
+Added Net: Name=Netc9_2
+Added Pin To Net: NetName=Netc10_2 Pin=c10-2
+Added Net: Name=Netc10_2
+Added Pin To Net: NetName=NetD1_4 Pin=D1-4
+Added Pin To Net: NetName=NetD1_4 Pin=P1-1
+Added Net: Name=NetD1_4
+Added Room: Name=PowerSupply
+Added Room: Name=Preamp&Filter

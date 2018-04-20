@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=VS Pin=c20_U_M_Driver1-1
+Removed Pin From Net: NetName=VS Pin=c20_U_M_Driver2-1
+Removed Pin From Net: NetName=VS Pin=c20_U_M_Driver3-1
+Removed Pin From Net: NetName=VS Pin=c21_U_M_Driver1-1
+Removed Pin From Net: NetName=VS Pin=c21_U_M_Driver2-1
+Removed Pin From Net: NetName=VS Pin=c21_U_M_Driver3-1
+Removed Pin From Net: NetName=VS Pin=c22_U_M_Driver1-1
+Removed Pin From Net: NetName=VS Pin=c22_U_M_Driver2-1
+Removed Pin From Net: NetName=VS Pin=c22_U_M_Driver3-1
+Removed Pin From Net: NetName=VS Pin=u1_U_M_Driver1-92
+Removed Pin From Net: NetName=VS Pin=u1_U_M_Driver1-95
+Removed Pin From Net: NetName=VS Pin=u1_U_M_Driver1-96
+Removed Pin From Net: NetName=VS Pin=u1_U_M_Driver2-92
+Removed Pin From Net: NetName=VS Pin=u1_U_M_Driver2-95
+Removed Pin From Net: NetName=VS Pin=u1_U_M_Driver2-96
+Removed Pin From Net: NetName=VS Pin=u1_U_M_Driver3-92
+Removed Pin From Net: NetName=VS Pin=u1_U_M_Driver3-95
+Removed Pin From Net: NetName=VS Pin=u1_U_M_Driver3-96
+Added Pin To Net: NetName=SW Pin=u5-2
+Added Pin To Net: NetName=Vin Pin=u5-14
+Added Pin To Net: NetName=PGND Pin=u5-16
+Added Pin To Net: NetName=Netc20_U_M_Driver1_1 Pin=c20_U_M_Driver1-1
+Added Pin To Net: NetName=Netc20_U_M_Driver1_1 Pin=u1_U_M_Driver1-95
+Added Net: Name=Netc20_U_M_Driver1_1
+Added Pin To Net: NetName=Netc20_U_M_Driver2_1 Pin=c20_U_M_Driver2-1
+Added Pin To Net: NetName=Netc20_U_M_Driver2_1 Pin=u1_U_M_Driver2-95
+Added Net: Name=Netc20_U_M_Driver2_1
+Added Pin To Net: NetName=Netc20_U_M_Driver3_1 Pin=c20_U_M_Driver3-1
+Added Pin To Net: NetName=Netc20_U_M_Driver3_1 Pin=u1_U_M_Driver3-95
+Added Net: Name=Netc20_U_M_Driver3_1
+Added Pin To Net: NetName=Netc21_U_M_Driver1_1 Pin=c21_U_M_Driver1-1
+Added Pin To Net: NetName=Netc21_U_M_Driver1_1 Pin=u1_U_M_Driver1-96
+Added Net: Name=Netc21_U_M_Driver1_1
+Added Pin To Net: NetName=Netc21_U_M_Driver2_1 Pin=c21_U_M_Driver2-1
+Added Pin To Net: NetName=Netc21_U_M_Driver2_1 Pin=u1_U_M_Driver2-96
+Added Net: Name=Netc21_U_M_Driver2_1
+Added Pin To Net: NetName=Netc21_U_M_Driver3_1 Pin=c21_U_M_Driver3-1
+Added Pin To Net: NetName=Netc21_U_M_Driver3_1 Pin=u1_U_M_Driver3-96
+Added Net: Name=Netc21_U_M_Driver3_1
+Added Pin To Net: NetName=Netc22_U_M_Driver1_1 Pin=c22_U_M_Driver1-1
+Added Pin To Net: NetName=Netc22_U_M_Driver1_1 Pin=u1_U_M_Driver1-92
+Added Net: Name=Netc22_U_M_Driver1_1
+Added Pin To Net: NetName=Netc22_U_M_Driver2_1 Pin=c22_U_M_Driver2-1
+Added Pin To Net: NetName=Netc22_U_M_Driver2_1 Pin=u1_U_M_Driver2-92
+Added Net: Name=Netc22_U_M_Driver2_1
+Added Pin To Net: NetName=Netc22_U_M_Driver3_1 Pin=c22_U_M_Driver3-1
+Added Pin To Net: NetName=Netc22_U_M_Driver3_1 Pin=u1_U_M_Driver3-92
+Added Net: Name=Netc22_U_M_Driver3_1

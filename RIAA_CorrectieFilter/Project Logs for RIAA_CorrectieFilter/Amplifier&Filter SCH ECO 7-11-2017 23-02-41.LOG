@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=c2 Old Footprint=0805 New Footprint=1206
+Change Component Footprint: Designator=c3 Old Footprint=0805 New Footprint=1206
+Change Component Comment: Designator=C15 Old Comment=1.7µF/16V New Comment=4.7µ
+Change Component Comment: Designator=r11 Old Comment=1k New Comment=1206 Resistor
+Change Component Comment: Designator=C9 Old Comment=4.7µF/16V New Comment=4.7µ
+Change Component Comment: Designator=C14 Old Comment=4.7µF/16V New Comment=4.7µ
+Change Component Comment: Designator=C16 Old Comment=4.7µF/25V New Comment=4.7µ
+Change Component Comment: Designator=c3 Old Comment=10n New Comment=100nF
+Change Component Comment: Designator=c2 Old Comment=10n New Comment=330nF
+Change Component Comment: Designator=c5 Old Comment=10µF/16V New Comment=10µ
+Change Component Comment: Designator=c11 Old Comment=10µF/16V New Comment=10µ
+Change Component Comment: Designator=c7 Old Comment=15nF New Comment=15n
+Change Component Comment: Designator=c13 Old Comment=15nF New Comment=15n
+Change Component Comment: Designator=c1 Old Comment=22µF/16V New Comment=22µ
+Change Component Comment: Designator=c8 Old Comment=22µF/16V New Comment=22µ
+Change Component Comment: Designator=c4 Old Comment=100pF New Comment=100p
+Change Component Comment: Designator=c10 Old Comment=100pF New Comment=100p
+Change Pin Designator/Name:  Old Designator=c3-1 Old Name= New Designator = New Name=2
+Change Pin Designator/Name:  Old Designator=c3-2 Old Name= New Designator = New Name=1

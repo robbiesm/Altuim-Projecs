@@ -1,0 +1,62 @@
+Change Component Comment : Designator=p23 Old Comment=Serial New Comment=Wire-to-Board 2P
+Added Component: Designator=p2(WtB-F-2p)
+Add component. Clean all parameters for all variants
+Added Component: Designator=p6(WtB-F-2p)
+Add component. Clean all parameters for all variants
+Added Component: Designator=p7(WtB-F-2p)
+Add component. Clean all parameters for all variants
+Added Component: Designator=p8(WtB-F-2p)
+Add component. Clean all parameters for all variants
+Added Component: Designator=p9(WtB-F-2p)
+Add component. Clean all parameters for all variants
+Added Component: Designator=p10(WtB-F-2p)
+Add component. Clean all parameters for all variants
+Added Component: Designator=p11(WtB-F-2p)
+Add component. Clean all parameters for all variants
+Added Component: Designator=p12(WtB-F-2p)
+Add component. Clean all parameters for all variants
+Added Component: Designator=p13(WtB-F-2p)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=p2-1
+Added Pin To Net: NetName=ERC0 Pin=p2-2
+Added Pin To Net: NetName=GND Pin=p6-1
+Added Pin To Net: NetName=ERC0 Pin=p6-2
+Added Pin To Net: NetName=GND Pin=p7-1
+Added Pin To Net: NetName=ERC0 Pin=p7-2
+Added Pin To Net: NetName=GND Pin=p8-1
+Added Pin To Net: NetName=ERC0 Pin=p8-2
+Added Pin To Net: NetName=GND Pin=p9-1
+Added Pin To Net: NetName=ERC0 Pin=p9-2
+Added Pin To Net: NetName=GND Pin=p10-1
+Added Pin To Net: NetName=ERC0 Pin=p10-2
+Added Pin To Net: NetName=GND Pin=p11-1
+Added Pin To Net: NetName=ERC0 Pin=p11-2
+Added Pin To Net: NetName=GND Pin=p12-1
+Added Pin To Net: NetName=ERC0 Pin=p12-2
+Added Pin To Net: NetName=GND Pin=p13-1
+Added Pin To Net: NetName=ERC0 Pin=p13-2
+Added Pin To Net: NetName=CS0 Pin=u1_U_M_Driver1-10
+Added Pin To Net: NetName=OUTB2_1 Pin=u1_U_M_Driver1-91
+Added Pin To Net: NetName=OUTB1_1 Pin=u1_U_M_Driver1-92
+Added Pin To Net: NetName=CS0 Pin=u1_U_M_Driver2-10
+Added Pin To Net: NetName=OUTB2_2 Pin=u1_U_M_Driver2-91
+Added Pin To Net: NetName=OUTB1_2 Pin=u1_U_M_Driver2-92
+Added Pin To Net: NetName=CS0 Pin=u1_U_M_Driver3-10
+Added Pin To Net: NetName=OUTB2_3 Pin=u1_U_M_Driver3-91
+Added Pin To Net: NetName=OUTB1_3 Pin=u1_U_M_Driver3-92
+Added Member To Class: ClassName=TOP Sheet Member=Component p2 Wire-to-Board 2P
+Added Member To Class: ClassName=TOP Sheet Member=Component p6 Wire-to-Board 2P
+Added Member To Class: ClassName=TOP Sheet Member=Component p7 Wire-to-Board 2P
+Added Member To Class: ClassName=TOP Sheet Member=Component p8 Wire-to-Board 2P
+Added Member To Class: ClassName=TOP Sheet Member=Component p9 Wire-to-Board 2P
+Added Member To Class: ClassName=TOP Sheet Member=Component p10 Wire-to-Board 2P
+Added Member To Class: ClassName=TOP Sheet Member=Component p11 Wire-to-Board 2P
+Added Member To Class: ClassName=TOP Sheet Member=Component p12 Wire-to-Board 2P
+Added Member To Class: ClassName=TOP Sheet Member=Component p13 Wire-to-Board 2P
+Added Room: Name=TOP Sheet
+Added Room: Name=U_Controller
+Added Room: Name=U_M_Driver1
+Added Room: Name=U_M_Driver2
+Added Room: Name=U_M_Driver3
+Added Room: Name=U_Power Supply
+Added Room: Name=U_Relais sheet

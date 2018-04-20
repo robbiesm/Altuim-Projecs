@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC Pin=c17-1
+Added Pin To Net: NetName=GND Pin=c17-1
+Added Room: Name=PowerSupply
+Added Room: Name=Preamp&Filter

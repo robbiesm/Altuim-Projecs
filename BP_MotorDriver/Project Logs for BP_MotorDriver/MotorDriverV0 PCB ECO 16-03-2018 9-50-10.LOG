@@ -1,0 +1,53 @@
+Added Component: Designator=c40(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c41(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=p24(1x2-HeaderPin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=p25_U_M_Driver1(1x2-HeaderPin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=p25_U_M_Driver2(1x2-HeaderPin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=p25_U_M_Driver3(1x2-HeaderPin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=p26_U_M_Driver1(1x2-HeaderPin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=p26_U_M_Driver2(1x2-HeaderPin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=p26_U_M_Driver3(1x2-HeaderPin)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=c40-1
+Added Pin To Net: NetName=GND Pin=c41-1
+Added Pin To Net: NetName=Netd4_2 Pin=c41-2
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=p24-2
+Added Pin To Net: NetName=Netr17_U_M_Driver1_2 Pin=p25_U_M_Driver1-1
+Added Pin To Net: NetName=PGND Pin=p25_U_M_Driver1-2
+Added Pin To Net: NetName=Netr17_U_M_Driver2_2 Pin=p25_U_M_Driver2-1
+Added Pin To Net: NetName=PGND Pin=p25_U_M_Driver2-2
+Added Pin To Net: NetName=Netr17_U_M_Driver3_2 Pin=p25_U_M_Driver3-1
+Added Pin To Net: NetName=PGND Pin=p25_U_M_Driver3-2
+Added Pin To Net: NetName=Netr18_U_M_Driver1_2 Pin=p26_U_M_Driver1-1
+Added Pin To Net: NetName=PGND Pin=p26_U_M_Driver1-2
+Added Pin To Net: NetName=Netr18_U_M_Driver2_2 Pin=p26_U_M_Driver2-1
+Added Pin To Net: NetName=PGND Pin=p26_U_M_Driver2-2
+Added Pin To Net: NetName=Netr18_U_M_Driver3_2 Pin=p26_U_M_Driver3-1
+Added Pin To Net: NetName=PGND Pin=p26_U_M_Driver3-2
+Change Net Name : Old Net Name=Netd4_2 New Net Name=Netc41_2
+Change Net Name : Old Net Name=Netr17_U_M_Driver1_2 New Net Name=Netp25_U_M_Driver1_1
+Change Net Name : Old Net Name=Netr17_U_M_Driver2_2 New Net Name=Netp25_U_M_Driver2_1
+Change Net Name : Old Net Name=Netr17_U_M_Driver3_2 New Net Name=Netp25_U_M_Driver3_1
+Change Net Name : Old Net Name=Netr18_U_M_Driver1_2 New Net Name=Netp26_U_M_Driver1_1
+Change Net Name : Old Net Name=Netr18_U_M_Driver2_2 New Net Name=Netp26_U_M_Driver2_1
+Change Net Name : Old Net Name=Netr18_U_M_Driver3_2 New Net Name=Netp26_U_M_Driver3_1
+Added Pin To Net: NetName=Netc40_2 Pin=c40-2
+Added Pin To Net: NetName=Netc40_2 Pin=p24-1
+Added Net: Name=Netc40_2
+Added Member To Class: ClassName=U_Controller Member=Component c40 1µF
+Added Member To Class: ClassName=U_Relais sheet Member=Component c41 100nF
+Added Member To Class: ClassName=U_Controller Member=Component p24 2 Pin Header
+Added Member To Class: ClassName=U_M_Driver1 Member=Component p25_U_M_Driver1 (p25) 2 Pin Header
+Added Member To Class: ClassName=U_M_Driver2 Member=Component p25_U_M_Driver2 (p25) 2 Pin Header
+Added Member To Class: ClassName=U_M_Driver3 Member=Component p25_U_M_Driver3 (p25) 2 Pin Header
+Added Member To Class: ClassName=U_M_Driver1 Member=Component p26_U_M_Driver1 (p26) 2 Pin Header
+Added Member To Class: ClassName=U_M_Driver2 Member=Component p26_U_M_Driver2 (p26) 2 Pin Header
+Added Member To Class: ClassName=U_M_Driver3 Member=Component p26_U_M_Driver3 (p26) 2 Pin Header

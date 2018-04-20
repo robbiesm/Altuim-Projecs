@@ -1,0 +1,17 @@
+Change Component DesignItemId : Designator=c22 Old DesignItemId=1206 Cap New DesignItemId=0805 Capacitor
+Change Component DesignItemId : Designator=c23 Old DesignItemId=1206 Cap New DesignItemId=0805 Capacitor
+Change Component DesignItemId : Designator=c24 Old DesignItemId=1206 Cap New DesignItemId=0805 Capacitor
+Change Component Footprint: Designator=c22 Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=c23 Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=c24 Old Footprint=1206 New Footprint=0805
+Change Component Comment : Designator=C9 Old Comment=4.7µ New Comment=Elco C
+Change Component Comment : Designator=C14 Old Comment=4.7µ New Comment=Elco C
+Change Component Comment : Designator=C15 Old Comment=4.7µ New Comment=Elco C
+Change Component Comment : Designator=C16 Old Comment=4.7µ New Comment=Elco C
+Change Component Comment : Designator=c5 Old Comment=10µ New Comment=Elco C
+Change Component Comment : Designator=c11 Old Comment=10µ New Comment=Elco C
+Change Component Description : Designator=c22 Old Description=Capacitor package 1206 New Description=0805 Capacitor Package
+Change Component Description : Designator=c23 Old Description=Capacitor package 1206 New Description=0805 Capacitor Package
+Change Component Description : Designator=c24 Old Description=Capacitor package 1206 New Description=0805 Capacitor Package
+Added Room: Name=Amplifier&Filter
+Added Room: Name=Power Supply

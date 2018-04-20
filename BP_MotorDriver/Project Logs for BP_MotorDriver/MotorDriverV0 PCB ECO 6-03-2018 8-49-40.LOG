@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=p24-1
+Removed Pin From Net: NetName=STCK Pin=u4-39
+Removed Member From Class: ClassName=TOP Sheet Member=p24
+Added Pin To Net: NetName=SCK Pin=u1_U_M_Driver1-10
+Added Pin To Net: NetName=PS Pin=u1_U_M_Driver1-91
+Added Pin To Net: NetName=PS Pin=u1_U_M_Driver1-92
+Added Pin To Net: NetName=SCK Pin=u1_U_M_Driver2-10
+Added Pin To Net: NetName=PS Pin=u1_U_M_Driver2-91
+Added Pin To Net: NetName=PS Pin=u1_U_M_Driver2-92
+Added Pin To Net: NetName=SCK Pin=u1_U_M_Driver3-10
+Added Pin To Net: NetName=PS Pin=u1_U_M_Driver3-91
+Added Pin To Net: NetName=PS Pin=u1_U_M_Driver3-92
+Added Pin To Net: NetName=SW Pin=u5-2
+Added Pin To Net: NetName=Vin Pin=u5-14
+Added Pin To Net: NetName=PGND Pin=u5-16

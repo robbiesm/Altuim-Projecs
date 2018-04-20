@@ -1,0 +1,26 @@
+Remove Pin=k1-1 From Net=RELAY_OUT
+Remove Pin=k2-1 From Net=RELAY_OUT
+Remove Pin=k3-1 From Net=RELAY_OUT
+Remove Pin=k4-1 From Net=RELAY_OUT
+Remove Pin=p1-4 From Net=USBID
+Remove Pin=p3-1 From Net=OUTB2_3
+Remove Pin=p3-2 From Net=OUTB1_1
+Remove Pin=p3-3 From Net=OUTA2_1
+Remove Pin=p3-4 From Net=OUTA1_1
+Remove Pin=p4-1 From Net=OUTB2_2
+Remove Pin=p4-2 From Net=OUTB1_2
+Remove Pin=p4-3 From Net=OUTA2_2
+Remove Pin=p4-4 From Net=OUTA1_2
+Remove Pin=p5-1 From Net=OUTB2_1
+Remove Pin=p5-2 From Net=OUTB1_3
+Remove Pin=p5-3 From Net=OUTA2_3
+Remove Pin=p5-4 From Net=OUTA1_3
+Remove Pin=u2-14 From Net=ROUT
+Remove Pin=u2-15 From Net=ROUT
+Remove Pin=u2-17 From Net=ROUT
+Remove Pin=u2-18 From Net=ROUT
+Change Component Comment: Designator=f1 Old Comment=500mA New Comment=Fuse 500mA
+Change Pin Designator/Name:  Old Designator=p14-1 Old Name=1 New Designator =4 New Name=4
+Change Pin Designator/Name:  Old Designator=p14-4 Old Name=4 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=u4B-2 Old Name=UVcc New Designator =UGND New Name=5
+Change Pin Designator/Name:  Old Designator=u4B-6 Old Name=UCap New Designator =UVcc New Name=2

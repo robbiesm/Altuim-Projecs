@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=Netc17_2 Pin=d1-2
+Added Component: Designator=fb1(0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Netc17_2 Pin=fb1-2
+Added Pin To Net: NetName=Netd1_2 Pin=d1-2
+Added Pin To Net: NetName=Netd1_2 Pin=fb1-1
+Added Net: Name=Netd1_2
+Added Member To Class: ClassName=Power Supply Member=Component fb1 Ferrite Bead
+Added Room: Name=Amplifier&Filter
+Added Room: Name=Power Supply

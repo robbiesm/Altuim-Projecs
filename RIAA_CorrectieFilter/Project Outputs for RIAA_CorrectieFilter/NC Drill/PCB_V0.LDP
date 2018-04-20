@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Altium\Projects\RIAA_CorrectieFilter\PCB_V0.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_v0-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_v0-slotholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,93 @@
+Removed Pin From Net: NetName=ERC0 Pin=p6-2
+Removed Pin From Net: NetName=ERC0 Pin=p7-2
+Removed Pin From Net: NetName=ERC0 Pin=p8-2
+Removed Pin From Net: NetName=ERC0 Pin=p9-2
+Removed Pin From Net: NetName=ERC0 Pin=p10-2
+Removed Pin From Net: NetName=ERC0 Pin=p11-2
+Removed Pin From Net: NetName=ERC0 Pin=p12-2
+Removed Pin From Net: NetName=ERC0 Pin=p13-2
+Removed Pin From Net: NetName=ERC0 Pin=u4-19
+Removed Pin From Net: NetName=ERC0 Pin=u4-22
+Removed Pin From Net: NetName=ERC0 Pin=u4-25
+Removed Pin From Net: NetName=ERC0 Pin=u4-26
+Removed Pin From Net: NetName=ERC0 Pin=u4-27
+Removed Pin From Net: NetName=ERC0 Pin=u4-36
+Removed Pin From Net: NetName=ERC0 Pin=u4-37
+Removed Pin From Net: NetName=ERC0 Pin=u4-38
+Change Component Designator: OldDesignator=tp2_1 NewDesignator=tp2_U_M_Driver1
+Change Component Designator: OldDesignator=u1_1 NewDesignator=u1_U_M_Driver1
+Added Component: Designator=r29(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r30(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r31(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r32(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r40(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r41(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r42(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r43(0603)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Relay_COM Pin=r29-2
+Added Pin To Net: NetName=Relay_COM Pin=r30-2
+Added Pin To Net: NetName=Relay_COM Pin=r31-2
+Added Pin To Net: NetName=Relay_COM Pin=r32-2
+Added Pin To Net: NetName=Relay_COM Pin=r40-2
+Added Pin To Net: NetName=Relay_COM Pin=r41-2
+Added Pin To Net: NetName=Relay_COM Pin=r42-2
+Added Pin To Net: NetName=Relay_COM Pin=r43-2
+Added Pin To Net: NetName=CS0 Pin=u1_U_M_Driver1-10
+Added Pin To Net: NetName=OUTB2_1 Pin=u1_U_M_Driver1-91
+Added Pin To Net: NetName=OUTB1_1 Pin=u1_U_M_Driver1-92
+Added Pin To Net: NetName=CS0 Pin=u1_U_M_Driver2-10
+Added Pin To Net: NetName=OUTB2_2 Pin=u1_U_M_Driver2-91
+Added Pin To Net: NetName=OUTB1_2 Pin=u1_U_M_Driver2-92
+Added Pin To Net: NetName=CS0 Pin=u1_U_M_Driver3-10
+Added Pin To Net: NetName=OUTB2_3 Pin=u1_U_M_Driver3-91
+Added Pin To Net: NetName=OUTB1_3 Pin=u1_U_M_Driver3-92
+Added Pin To Net: NetName=Netc27_2 Pin=u5-2
+Added Pin To Net: NetName=Netc18_2 Pin=u5-14
+Added Pin To Net: NetName=GND Pin=u5-16
+Added Pin To Net: NetName=ERC1 Pin=p6-2
+Added Pin To Net: NetName=ERC1 Pin=r29-1
+Added Pin To Net: NetName=ERC1 Pin=u4-19
+Added Net: Name=ERC1
+Added Pin To Net: NetName=ERC2 Pin=p7-2
+Added Pin To Net: NetName=ERC2 Pin=r30-1
+Added Pin To Net: NetName=ERC2 Pin=u4-25
+Added Net: Name=ERC2
+Added Pin To Net: NetName=ERC3 Pin=p8-2
+Added Pin To Net: NetName=ERC3 Pin=r31-1
+Added Pin To Net: NetName=ERC3 Pin=u4-22
+Added Net: Name=ERC3
+Added Pin To Net: NetName=ERC4 Pin=p9-2
+Added Pin To Net: NetName=ERC4 Pin=r32-1
+Added Pin To Net: NetName=ERC4 Pin=u4-26
+Added Net: Name=ERC4
+Added Pin To Net: NetName=ERC5 Pin=p10-2
+Added Pin To Net: NetName=ERC5 Pin=r40-1
+Added Pin To Net: NetName=ERC5 Pin=u4-27
+Added Net: Name=ERC5
+Added Pin To Net: NetName=Home0 Pin=p11-2
+Added Pin To Net: NetName=Home0 Pin=u4-38
+Added Net: Name=Home0
+Added Pin To Net: NetName=Home1 Pin=p12-2
+Added Pin To Net: NetName=Home1 Pin=r42-1
+Added Pin To Net: NetName=Home1 Pin=u4-37
+Added Net: Name=Home1
+Added Pin To Net: NetName=Home2 Pin=p13-2
+Added Pin To Net: NetName=Home2 Pin=r43-1
+Added Pin To Net: NetName=Home2 Pin=u4-36
+Added Net: Name=Home2
+Added Member To Class: ClassName=TOP Sheet Member=Component r29 10k
+Added Member To Class: ClassName=TOP Sheet Member=Component r30 10k
+Added Member To Class: ClassName=TOP Sheet Member=Component r31 10k
+Added Member To Class: ClassName=TOP Sheet Member=Component r32 10k
+Added Member To Class: ClassName=TOP Sheet Member=Component r40 10k
+Added Member To Class: ClassName=TOP Sheet Member=Component r41 10k
+Added Member To Class: ClassName=TOP Sheet Member=Component r42 10k
+Added Member To Class: ClassName=TOP Sheet Member=Component r43 10k

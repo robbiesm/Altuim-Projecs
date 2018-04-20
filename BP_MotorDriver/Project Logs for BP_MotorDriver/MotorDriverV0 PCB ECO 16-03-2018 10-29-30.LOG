@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=R\E\S\E\T\ Pin=sw1-2
+Added Component: Designator=r44(0603)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=r44-2
+Added Pin To Net: NetName=Netr44_1 Pin=r44-1
+Added Pin To Net: NetName=Netr44_1 Pin=sw1-2
+Added Net: Name=Netr44_1
+Added Member To Class: ClassName=U_Controller Member=Component r44 47R

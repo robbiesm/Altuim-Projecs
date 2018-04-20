@@ -1,0 +1,11 @@
+Added Component: Designator=p1(Micro USB Type B)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Netf1_1 Pin=p1-1
+Added Pin To Net: NetName=Netp1_2 Pin=p1-2
+Added Pin To Net: NetName=Netp1_3 Pin=p1-3
+Added Pin To Net: NetName=GND Pin=p1-5
+Added Pin To Net: NetName=GND Pin=p1-6
+Added Pin To Net: NetName=GND Pin=p1-6
+Added Pin To Net: NetName=GND Pin=p1-6
+Added Pin To Net: NetName=GND Pin=p1-6
+Added Member To Class: ClassName=U_Power Supply Member=Component p1 Micro USB Type B

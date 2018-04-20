@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=VS Pin=D5-2
+Removed Pin From Net: NetName=VS Pin=p22-1
+Added Component: Designator=c34(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c35(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6(TO-220AC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D7(SOD-923)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D13(SOD-923)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Relay_COM Pin=c34-1
+Added Pin To Net: NetName=GND Pin=c34-2
+Added Pin To Net: NetName=Relay_COM Pin=c35-1
+Added Pin To Net: NetName=GND Pin=c35-2
+Added Pin To Net: NetName=VS Pin=D6-1
+Added Pin To Net: NetName=SW Pin=u5-2
+Added Pin To Net: NetName=Vin Pin=u5-14
+Added Pin To Net: NetName=PGND Pin=u5-16
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=D6-2
+Added Pin To Net: NetName=NetD5_2 Pin=p22-1
+Added Net: Name=NetD5_2
+Added Member To Class: ClassName=U_Controller Member=Component c34 100nF
+Added Member To Class: ClassName=U_Controller Member=Component c35 100nF
+Added Member To Class: ClassName=U_Power Supply Member=Component D6 VS-15TQ060PBF
+Added Member To Class: ClassName=U_Power Supply Member=Component D7 ASD3B3.3ST5G
+Added Member To Class: ClassName=U_Power Supply Member=Component D13 ASD3B3.3ST5G

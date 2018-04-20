@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=Netc1_2 Pin=c2-1
+Removed Pin From Net: NetName=GND Pin=c2-2
+Removed Pin From Net: NetName=GND Pin=c3-1
+Removed Pin From Net: NetName=NetD1_2 Pin=fb1-1
+Removed Pin From Net: NetName=NetD1_1 Pin=P1-1
+Removed Pin From Net: NetName=Netc1_2 Pin=u1-1
+Removed Pin From Net: NetName=GND Pin=u1-2
+Removed Member From Class: ClassName=PowerSupply Member=c2
+Removed Member From Class: ClassName=PowerSupply Member=c3
+Removed Member From Class: ClassName=PowerSupply Member=u1
+Change Component Comment : Designator=c13 Old Comment=1.5nF New Comment=*
+Change Component Comment : Designator=c14 Old Comment=1.5nF New Comment=*
+Change Component Comment : Designator=c5 Old Comment=1µF New Comment=*
+Change Component Comment : Designator=c6 Old Comment=1µF New Comment=*
+Change Component Comment : Designator=c7 Old Comment=2.2µF New Comment=*
+Change Component Comment : Designator=c8 Old Comment=2.2µF New Comment=*
+Change Component Comment : Designator=c11 Old Comment=6.8nF New Comment=*
+Change Component Comment : Designator=c12 Old Comment=6.8nF New Comment=*
+Change Component Comment : Designator=r1 Old Comment=10 New Comment=*
+Change Component Comment : Designator=r6 Old Comment=10k New Comment=*
+Change Component Comment : Designator=r7 Old Comment=10k New Comment=*
+Change Component Comment : Designator=c15 Old Comment=10µF New Comment=*
+Change Component Comment : Designator=c16 Old Comment=10µF New Comment=*
+Change Component Comment : Designator=r12 Old Comment=51k New Comment=*
+Change Component Comment : Designator=r13 Old Comment=51k New Comment=*
+Change Component Comment : Designator=r2 Old Comment=91k New Comment=*
+Change Component Comment : Designator=r4 Old Comment=91k New Comment=*
+Change Component Comment : Designator=r3 Old Comment=100k New Comment=*
+Change Component Comment : Designator=r5 Old Comment=100k New Comment=*
+Change Component Comment : Designator=r8 Old Comment=120k New Comment=*
+Change Component Comment : Designator=r9 Old Comment=120k New Comment=*
+Change Component Comment : Designator=r10 Old Comment=750k New Comment=*
+Change Component Comment : Designator=r11 Old Comment=750k New Comment=*
+Change Component Comment : Designator=D1 Old Comment=B220A-13-F New Comment=*
+Change Component Comment : Designator=fb1 Old Comment=Ferrite Bead 0805 Package New Comment=*
+Change Component Comment : Designator=u2 Old Comment=NE5532x New Comment=*
+Change Component Comment : Designator=P2 Old Comment=PSG01551 New Comment=*
+Change Component Comment : Designator=u3 Old Comment=TL027x New Comment=*
+Added Component: Designator=c1(Elco-D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c4(Elco-D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c9(Elco-D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c10(Elco-D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c17(Elco-D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c18(Elco-D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D?(SOT-143)
+Add component. Clean all parameters for all variants
+Added Component: Designator=f*(Fiducial)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H*(Mounting Hole)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=c1-1
+Added Pin To Net: NetName=Netc1_2 Pin=c1-2
+Added Pin To Net: NetName=GND Pin=c4-1
+Added Pin To Net: NetName=VCC Pin=c4-2
+Added Pin To Net: NetName=GND Pin=c9-1
+Added Pin To Net: NetName=Netc9_2 Pin=c9-2
+Added Pin To Net: NetName=GND Pin=c10-1
+Added Pin To Net: NetName=Netc10_2 Pin=c10-2
+Added Pin To Net: NetName=VCC Pin=c17-1
+Added Pin To Net: NetName=VCC Pin=c17-2
+Added Pin To Net: NetName=GND Pin=c18-1
+Added Pin To Net: NetName=VCC Pin=c18-2
+Added Pin To Net: NetName=NetD1_1 Pin=fb1-1
+Added Pin To Net: NetName=NetD1_2 Pin=P1-1
+Added Member To Class: ClassName=PowerSupply Member=Component c1 *
+Added Member To Class: ClassName=PowerSupply Member=Component c4 *
+Added Member To Class: ClassName=Preamp&Filter Member=Component c9 *
+Added Member To Class: ClassName=Preamp&Filter Member=Component c10 *
+Added Member To Class: ClassName=Preamp&Filter Member=Component c17 *
+Added Member To Class: ClassName=Preamp&Filter Member=Component c18 *
+Added Member To Class: ClassName=PowerSupply Member=Component D? Bridge Rectifier
+Added Member To Class: ClassName=PowerSupply Member=Component f* Fiducial
+Added Member To Class: ClassName=PowerSupply Member=Component H* Mounting Hole
+Added Room: Name=PowerSupply
+Added Room: Name=Preamp&Filter

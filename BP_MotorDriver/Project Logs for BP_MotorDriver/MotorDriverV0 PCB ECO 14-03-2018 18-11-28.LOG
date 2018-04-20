@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=D7-2
+Removed Pin From Net: NetName=Netp1_3 Pin=r2-1
+Removed Pin From Net: NetName=Netp1_2 Pin=r3-1
+Removed Member From Class: ClassName=U_Power Supply Member=D7
+Added Component: Designator=u?(SOT23-6)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=u?-2
+Added Pin To Net: NetName=Netp1_3 Pin=u?-4
+Added Pin To Net: NetName=Netp1_2 Pin=u?-6
+Added Pin To Net: NetName=Netf1_1 Pin=f1-1
+Added Pin To Net: NetName=Netf1_1 Pin=p1-1
+Added Pin To Net: NetName=Netf1_1 Pin=u?-5
+Added Net: Name=Netf1_1
+Added Pin To Net: NetName=Netr2_1 Pin=r2-1
+Added Pin To Net: NetName=Netr2_1 Pin=u?-3
+Added Net: Name=Netr2_1
+Added Pin To Net: NetName=Netr3_1 Pin=r3-1
+Added Pin To Net: NetName=Netr3_1 Pin=u?-1
+Added Net: Name=Netr3_1
+Added Member To Class: ClassName=U_Power Supply Member=Component u? USBLC6-2SC6

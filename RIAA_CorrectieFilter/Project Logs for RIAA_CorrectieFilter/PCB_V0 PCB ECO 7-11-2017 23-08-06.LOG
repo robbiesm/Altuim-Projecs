@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=u3-4
+Removed Pin From Net: NetName=VCC Pin=u3-8
+Removed Member From Class: ClassName=Power Supply Member=c21
+Removed Member From Class: ClassName=Power Supply Member=u3
+Added Pin To Net: NetName=GND Pin=u2-4
+Added Pin To Net: NetName=VCC Pin=u2-8
+Added Member To Class: ClassName=Amplifier&Filter Member=Component c21 10n
+Added Room: Name=Amplifier&Filter
+Added Room: Name=Power Supply

@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=b* NewDesignator=b1
+Change Component Designator: OldDesignator=f* NewDesignator=f1
+Change Component Designator: OldDesignator=H*1 NewDesignator=H2
+Change Component Designator: OldDesignator=H*2 NewDesignator=H3
+Change Component Designator: OldDesignator=H*3 NewDesignator=H4
+Change Component Designator: OldDesignator=H* NewDesignator=H1
+Change Net Name : Old Net Name=Netb*_1 New Net Name=Netb1_1
+Added Room: Name=PowerSupply
+Added Room: Name=Preamp&Filter

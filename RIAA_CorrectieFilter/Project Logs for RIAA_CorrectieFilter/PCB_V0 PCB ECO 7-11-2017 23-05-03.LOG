@@ -1,0 +1,203 @@
+Added Component: Designator=c1(Elco-D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c2(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c3(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c4(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c5(Elco-C)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c6(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c7(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c8(Elco-D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C9(Elco-C)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c10(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c11(Elco-C)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c12(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c13(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C14(Elco-C)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C15(Elco-C)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C16(Elco-C)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c17(Elco-D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c18(Elco-D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c19(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c20(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c21(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=d1(SMA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r1(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r2(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r3(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r4(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r5(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r6(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r7(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r8(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r9(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r10(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r11(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r12(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r13(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r14(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R15(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=u1(TO-220AB-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=u2(R-PDSO-G8-P127d620x530)
+Add component. Clean all parameters for all variants
+Added Component: Designator=u3(R-PDSO-G8-P127d620x530)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=c1-1
+Added Pin To Net: NetName=Netc1_2 Pin=c1-2
+Added Pin To Net: NetName=VCC Pin=c2-1
+Added Pin To Net: NetName=GND Pin=c2-2
+Added Pin To Net: NetName=GND Pin=c3-1
+Added Pin To Net: NetName=VCC Pin=c3-2
+Added Pin To Net: NetName=Netc4_1 Pin=c4-1
+Added Pin To Net: NetName=GND Pin=c4-2
+Added Pin To Net: NetName=GND Pin=c5-1
+Added Pin To Net: NetName=Netc5_2 Pin=c5-2
+Added Pin To Net: NetName=Netc6_1 Pin=c6-1
+Added Pin To Net: NetName=Netc6_2 Pin=c6-2
+Added Pin To Net: NetName=Netc6_2 Pin=c7-1
+Added Pin To Net: NetName=Netc7_2 Pin=c7-2
+Added Pin To Net: NetName=GND Pin=c8-1
+Added Pin To Net: NetName=Netc8_2 Pin=c8-2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=c10-1
+Added Pin To Net: NetName=GND Pin=c10-2
+Added Pin To Net: NetName=GND Pin=c11-1
+Added Pin To Net: NetName=Netc11_2 Pin=c11-2
+Added Pin To Net: NetName=Netc12_1 Pin=c12-1
+Added Pin To Net: NetName=Netc12_2 Pin=c12-2
+Added Pin To Net: NetName=Netc12_2 Pin=c13-1
+Added Pin To Net: NetName=Netc13_2 Pin=c13-2
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=Netc4_1 Pin=C14-2
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=GND Pin=c17-1
+Added Pin To Net: NetName=GND Pin=c18-1
+Added Pin To Net: NetName=VCC Pin=c18-2
+Added Pin To Net: NetName=GND Pin=c19-2
+Added Pin To Net: NetName=GND Pin=c20-1
+Added Pin To Net: NetName=Netc2_1 Pin=c20-2
+Added Pin To Net: NetName=VCC Pin=c21-1
+Added Pin To Net: NetName=GND Pin=c21-2
+Added Pin To Net: NetName=Netd1_1 Pin=d1-1
+Added Pin To Net: NetName=Netc1_2 Pin=r1-1
+Added Pin To Net: NetName=VCC Pin=r1-2
+Added Pin To Net: NetName=Netc1_2 Pin=r2-1
+Added Pin To Net: NetName=Netc4_1 Pin=r2-2
+Added Pin To Net: NetName=Netc4_1 Pin=r3-1
+Added Pin To Net: NetName=GND Pin=r3-2
+Added Pin To Net: NetName=NetC15_2 Pin=r4-1
+Added Pin To Net: NetName=Netc7_2 Pin=r4-2
+Added Pin To Net: NetName=Netc5_2 Pin=r5-1
+Added Pin To Net: NetName=Netc6_1 Pin=r5-2
+Added Pin To Net: NetName=Netc6_1 Pin=r6-1
+Added Pin To Net: NetName=Netc6_2 Pin=r6-2
+Added Pin To Net: NetName=Netc6_2 Pin=r7-1
+Added Pin To Net: NetName=Netc7_2 Pin=r7-2
+Added Pin To Net: NetName=Netc8_2 Pin=r8-1
+Added Pin To Net: NetName=VCC Pin=r8-2
+Added Pin To Net: NetName=Netc8_2 Pin=r9-1
+Added Pin To Net: NetName=NetC9_2 Pin=r9-2
+Added Pin To Net: NetName=NetC9_2 Pin=r10-1
+Added Pin To Net: NetName=GND Pin=r10-2
+Added Pin To Net: NetName=NetC16_2 Pin=r11-1
+Added Pin To Net: NetName=Netc13_2 Pin=r11-2
+Added Pin To Net: NetName=Netc11_2 Pin=r12-1
+Added Pin To Net: NetName=Netc12_1 Pin=r12-2
+Added Pin To Net: NetName=Netc12_1 Pin=r13-1
+Added Pin To Net: NetName=Netc12_2 Pin=r13-2
+Added Pin To Net: NetName=Netc12_2 Pin=r14-1
+Added Pin To Net: NetName=Netc13_2 Pin=r14-2
+Added Pin To Net: NetName=Netc2_1 Pin=R15-1
+Added Pin To Net: NetName=VCC Pin=R15-2
+Added Pin To Net: NetName=GND Pin=u1-2
+Added Pin To Net: NetName=Netc2_1 Pin=u1-3
+Added Pin To Net: NetName=NetC15_2 Pin=u2-1
+Added Pin To Net: NetName=Netc6_1 Pin=u2-2
+Added Pin To Net: NetName=Netc4_1 Pin=u2-3
+Added Pin To Net: NetName=NetC9_2 Pin=u2-5
+Added Pin To Net: NetName=Netc12_1 Pin=u2-6
+Added Pin To Net: NetName=NetC16_2 Pin=u2-7
+Added Pin To Net: NetName=GND Pin=u3-4
+Added Pin To Net: NetName=VCC Pin=u3-8
+Change Net Name : Old Net Name=Netc2_1 New Net Name=Netc20_2
+Added Pin To Net: NetName=Netc17_2 Pin=c17-2
+Added Pin To Net: NetName=Netc17_2 Pin=c19-1
+Added Pin To Net: NetName=Netc17_2 Pin=d1-2
+Added Pin To Net: NetName=Netc17_2 Pin=u1-1
+Added Net: Name=Netc17_2
+Change Class Name : Old Net Name=SchematicV0 New Net Name=Amplifier&Filter
+Added Class: Name=Power Supply
+Added Member To Class: ClassName=Amplifier&Filter Member=Component c1 22µ
+Added Member To Class: ClassName=Amplifier&Filter Member=Component c2 330nF
+Added Member To Class: ClassName=Amplifier&Filter Member=Component c3 100nF
+Added Member To Class: ClassName=Amplifier&Filter Member=Component c4 100p
+Added Member To Class: ClassName=Amplifier&Filter Member=Component c5 10µ
+Added Member To Class: ClassName=Amplifier&Filter Member=Component c6 3n3
+Added Member To Class: ClassName=Amplifier&Filter Member=Component c7 15n
+Added Member To Class: ClassName=Amplifier&Filter Member=Component c8 22µ
+Added Member To Class: ClassName=Amplifier&Filter Member=Component C9 4.7µ
+Added Member To Class: ClassName=Amplifier&Filter Member=Component c10 100p
+Added Member To Class: ClassName=Amplifier&Filter Member=Component c11 10µ
+Added Member To Class: ClassName=Amplifier&Filter Member=Component c12 3n3
+Added Member To Class: ClassName=Amplifier&Filter Member=Component c13 15n
+Added Member To Class: ClassName=Amplifier&Filter Member=Component C14 4.7µ
+Added Member To Class: ClassName=Amplifier&Filter Member=Component C15 4.7µ
+Added Member To Class: ClassName=Amplifier&Filter Member=Component C16 4.7µ
+Added Member To Class: ClassName=Amplifier&Filter Member=Component p2 PSG01551
+Added Member To Class: ClassName=Amplifier&Filter Member=Component r1 18k
+Added Member To Class: ClassName=Amplifier&Filter Member=Component r2 100k
+Added Member To Class: ClassName=Amplifier&Filter Member=Component r3 120k
+Added Member To Class: ClassName=Amplifier&Filter Member=Component r4 1k
+Added Member To Class: ClassName=Amplifier&Filter Member=Component r5 820R
+Added Member To Class: ClassName=Amplifier&Filter Member=Component r6 22k
+Added Member To Class: ClassName=Amplifier&Filter Member=Component r7 220k
+Added Member To Class: ClassName=Amplifier&Filter Member=Component r8 18k
+Added Member To Class: ClassName=Amplifier&Filter Member=Component r9 100k
+Added Member To Class: ClassName=Amplifier&Filter Member=Component r10 120k
+Added Member To Class: ClassName=Amplifier&Filter Member=Component r11 1206 Resistor
+Added Member To Class: ClassName=Amplifier&Filter Member=Component r12 820R
+Added Member To Class: ClassName=Amplifier&Filter Member=Component r13 22k
+Added Member To Class: ClassName=Amplifier&Filter Member=Component r14 220k
+Added Member To Class: ClassName=Amplifier&Filter Member=Component u2 NE5532x
+Added Room: Name=Amplifier&Filter
+Added Room: Name=Power Supply

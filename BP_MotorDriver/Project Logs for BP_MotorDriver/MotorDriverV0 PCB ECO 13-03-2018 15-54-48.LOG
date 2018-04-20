@@ -1,0 +1,18 @@
+Added Component: Designator=f*(Fiducial)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H*(Mounting Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H*(Mounting Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H*(Mounting Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H*(Mounting Hole)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=SW Pin=u5-2
+Added Pin To Net: NetName=Vin Pin=u5-14
+Added Pin To Net: NetName=PGND Pin=u5-16
+Added Member To Class: ClassName=TOP Sheet Member=Component f* Fiducial
+Added Member To Class: ClassName=TOP Sheet Member=Component H* Mounting Hole
+Added Member To Class: ClassName=TOP Sheet Member=Component H* Mounting Hole
+Added Member To Class: ClassName=TOP Sheet Member=Component H* Mounting Hole
+Added Member To Class: ClassName=TOP Sheet Member=Component H* Mounting Hole

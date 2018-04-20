@@ -1,0 +1,38 @@
+Added Component: Designator=c2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c3(Elco-D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H*1(Mounting Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H*2(Mounting Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H*3(Mounting Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r14(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r15(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(D²PAK 3)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=c2-1
+Added Pin To Net: NetName=Netc1_2 Pin=c2-2
+Added Pin To Net: NetName=GND Pin=c3-1
+Added Pin To Net: NetName=Netc3_2 Pin=c3-2
+Added Pin To Net: NetName=Netc9_2 Pin=r14-1
+Added Pin To Net: NetName=Netc11_1 Pin=r14-2
+Added Pin To Net: NetName=Netc10_2 Pin=r15-1
+Added Pin To Net: NetName=Netc12_1 Pin=r15-2
+Added Pin To Net: NetName=Netc1_2 Pin=U1-1
+Added Pin To Net: NetName=Netc3_2 Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Member To Class: ClassName=PowerSupply Member=Component c2 100nF
+Added Member To Class: ClassName=PowerSupply Member=Component c3 22µF
+Added Member To Class: ClassName=PowerSupply Member=Component D1 Bridge Rectifier
+Added Member To Class: ClassName=PowerSupply Member=Component H*1 Mounting Hole
+Added Member To Class: ClassName=PowerSupply Member=Component H*2 Mounting Hole
+Added Member To Class: ClassName=PowerSupply Member=Component H*3 Mounting Hole
+Added Member To Class: ClassName=Preamp&Filter Member=Component r14 1k
+Added Member To Class: ClassName=Preamp&Filter Member=Component r15 1k
+Added Member To Class: ClassName=PowerSupply Member=Component U1 NCV8674
+Added Room: Name=PowerSupply
+Added Room: Name=Preamp&Filter

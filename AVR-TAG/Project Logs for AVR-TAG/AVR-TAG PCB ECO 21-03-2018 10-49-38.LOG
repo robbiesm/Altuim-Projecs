@@ -1,0 +1,24 @@
+Added Component: Designator=p1(RJ11-6pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P2(2X3 box header-angled)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Netp1_1 Pin=p1-1
+Added Pin To Net: NetName=Netp1_1 Pin=P2-5
+Added Net: Name=Netp1_1
+Added Pin To Net: NetName=Netp1_2 Pin=p1-2
+Added Pin To Net: NetName=Netp1_2 Pin=P2-6
+Added Net: Name=Netp1_2
+Added Pin To Net: NetName=Netp1_3 Pin=p1-3
+Added Pin To Net: NetName=Netp1_3 Pin=P2-3
+Added Net: Name=Netp1_3
+Added Pin To Net: NetName=Netp1_4 Pin=p1-4
+Added Pin To Net: NetName=Netp1_4 Pin=P2-4
+Added Net: Name=Netp1_4
+Added Pin To Net: NetName=Netp1_5 Pin=p1-5
+Added Pin To Net: NetName=Netp1_5 Pin=P2-1
+Added Net: Name=Netp1_5
+Added Pin To Net: NetName=Netp1_6 Pin=p1-6
+Added Pin To Net: NetName=Netp1_6 Pin=P2-2
+Added Net: Name=Netp1_6
+Added Class: Name=AVR-TAG
+Added Room: Name=AVR-TAG

@@ -1,0 +1,8 @@
+Added Component: Designator=c33(0603)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=c33-1
+Added Pin To Net: NetName=Relay_COM Pin=c33-2
+Added Pin To Net: NetName=Netc27_2 Pin=u5-2
+Added Pin To Net: NetName=Netc18_2 Pin=u5-14
+Added Pin To Net: NetName=GND Pin=u5-16
+Added Member To Class: ClassName=U_Controller Member=Component c33 100nF

@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=U_Power Supply Member=D13
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=SW Pin=u5-2
+Added Pin To Net: NetName=Vin Pin=u5-14
+Added Pin To Net: NetName=PGND Pin=u5-16
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=f1-1
+Added Pin To Net: NetName=NetD7_1 Pin=p1-1
+Added Net: Name=NetD7_1

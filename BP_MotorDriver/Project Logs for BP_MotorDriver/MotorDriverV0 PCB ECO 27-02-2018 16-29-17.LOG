@@ -1,0 +1,26 @@
+Added Pin To Net: NetName=CS0 Pin=u1_U_M_Driver1-10
+Added Pin To Net: NetName=OUTB2_1 Pin=u1_U_M_Driver1-91
+Added Pin To Net: NetName=OUTB1_1 Pin=u1_U_M_Driver1-92
+Added Pin To Net: NetName=CS0 Pin=u1_U_M_Driver2-10
+Added Pin To Net: NetName=OUTB2_2 Pin=u1_U_M_Driver2-91
+Added Pin To Net: NetName=OUTB1_2 Pin=u1_U_M_Driver2-92
+Added Pin To Net: NetName=CS0 Pin=u1_U_M_Driver3-10
+Added Pin To Net: NetName=OUTB2_3 Pin=u1_U_M_Driver3-91
+Added Pin To Net: NetName=OUTB1_3 Pin=u1_U_M_Driver3-92
+Added Pin To Net: NetName=Relay_OUT5 Pin=p21-2
+Added Pin To Net: NetName=Relay_OUT5 Pin=u2-12
+Added Net: Name=Relay_OUT5
+Added Pin To Net: NetName=Relay_OUT6 Pin=p21-1
+Added Pin To Net: NetName=Relay_OUT6 Pin=u2-11
+Added Net: Name=Relay_OUT6
+Added Pin To Net: NetName=Relay_OUT7 Pin=p20-2
+Added Pin To Net: NetName=Relay_OUT7 Pin=u2-9
+Added Net: Name=Relay_OUT7
+Added Pin To Net: NetName=Relay_OUT8 Pin=p20-1
+Added Pin To Net: NetName=Relay_OUT8 Pin=u2-8
+Added Net: Name=Relay_OUT8
+Change Class Name : Old Net Name=Relay_OUT[1..8] New Net Name=Relay_OUT[1..4]
+Added Member To Class: ClassName=Relay_OUT[1..4] Member=Element[5]: Relay_OUT
+Added Member To Class: ClassName=Relay_OUT[1..4] Member=Element[6]: Relay_OUT
+Added Member To Class: ClassName=Relay_OUT[1..4] Member=Element[7]: Relay_OUT
+Added Member To Class: ClassName=Relay_OUT[1..4] Member=Element[8]: Relay_OUT

@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=PGND Pin=u1_U_M_Driver1-99
+Added Pin To Net: NetName=PGND Pin=u1_U_M_Driver2-99
+Added Pin To Net: NetName=PGND Pin=u1_U_M_Driver3-99
+Added Pin To Net: NetName=SW Pin=u5-2
+Added Pin To Net: NetName=Vin Pin=u5-14
+Added Pin To Net: NetName=PGND Pin=u5-16

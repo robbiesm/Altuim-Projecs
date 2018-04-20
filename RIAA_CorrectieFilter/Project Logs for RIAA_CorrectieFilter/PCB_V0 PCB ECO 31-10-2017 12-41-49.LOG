@@ -1,0 +1,71 @@
+Change Component Comment : Designator=c1 Old Comment=Elco D New Comment=22µ
+Change Component Comment : Designator=c8 Old Comment=Elco D New Comment=22µ
+Added Component: Designator=r1(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r2(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r3(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r4(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r5(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r6(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r7(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r8(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r9(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r10(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r11(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r12(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r13(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r14(1206)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Netc1_2 Pin=r1-1
+Added Pin To Net: NetName=VCC Pin=r1-2
+Added Pin To Net: NetName=Netc1_2 Pin=r2-1
+Added Pin To Net: NetName=Netc4_1 Pin=r2-2
+Added Pin To Net: NetName=Netc4_1 Pin=r3-1
+Added Pin To Net: NetName=GND Pin=r3-2
+Added Pin To Net: NetName=NetC15_2 Pin=r4-1
+Added Pin To Net: NetName=Netc7_2 Pin=r4-2
+Added Pin To Net: NetName=Netc6_1 Pin=r5-2
+Added Pin To Net: NetName=Netc6_1 Pin=r6-1
+Added Pin To Net: NetName=Netc6_2 Pin=r6-2
+Added Pin To Net: NetName=Netc6_2 Pin=r7-1
+Added Pin To Net: NetName=Netc7_2 Pin=r7-2
+Added Pin To Net: NetName=Netc8_2 Pin=r8-1
+Added Pin To Net: NetName=VCC Pin=r8-2
+Added Pin To Net: NetName=Netc8_2 Pin=r9-1
+Added Pin To Net: NetName=NetC9_2 Pin=r9-2
+Added Pin To Net: NetName=NetC9_2 Pin=r10-1
+Added Pin To Net: NetName=GND Pin=r10-2
+Added Pin To Net: NetName=NetC16_2 Pin=r11-1
+Added Pin To Net: NetName=Netc13_2 Pin=r11-2
+Added Pin To Net: NetName=Netc11_2 Pin=r12-1
+Added Pin To Net: NetName=Netc12_1 Pin=r12-2
+Added Pin To Net: NetName=Netc12_1 Pin=r13-1
+Added Pin To Net: NetName=Netc12_2 Pin=r13-2
+Added Pin To Net: NetName=Netc12_2 Pin=r14-1
+Added Pin To Net: NetName=Netc13_2 Pin=r14-2
+Added Member To Class: ClassName=SchematicV0 Member=Component r1 18k
+Added Member To Class: ClassName=SchematicV0 Member=Component r2 100k
+Added Member To Class: ClassName=SchematicV0 Member=Component r3 120k
+Added Member To Class: ClassName=SchematicV0 Member=Component r4 1k
+Added Member To Class: ClassName=SchematicV0 Member=Component r5 820R
+Added Member To Class: ClassName=SchematicV0 Member=Component r6 22k
+Added Member To Class: ClassName=SchematicV0 Member=Component r7 220k
+Added Member To Class: ClassName=SchematicV0 Member=Component r8 18k
+Added Member To Class: ClassName=SchematicV0 Member=Component r9 100k
+Added Member To Class: ClassName=SchematicV0 Member=Component r10 120k
+Added Member To Class: ClassName=SchematicV0 Member=Component r11 1206 Resistor
+Added Member To Class: ClassName=SchematicV0 Member=Component r12 820R
+Added Member To Class: ClassName=SchematicV0 Member=Component r13 22k
+Added Member To Class: ClassName=SchematicV0 Member=Component r14 220k

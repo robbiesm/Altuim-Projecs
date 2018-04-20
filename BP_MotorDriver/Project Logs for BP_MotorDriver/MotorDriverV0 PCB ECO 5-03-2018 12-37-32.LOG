@@ -1,0 +1,20 @@
+Removed Member From Class: ClassName=U_M_Driver1 Member=u1_3
+Change Component Designator: OldDesignator=tp2_1 NewDesignator=tp2_U_M_Driver1
+Change Component Designator: OldDesignator=tp2_2 NewDesignator=tp2_U_M_Driver2
+Change Component Designator: OldDesignator=tp2_3 NewDesignator=tp2_U_M_Driver3
+Change Component Designator: OldDesignator=u1_1 NewDesignator=u1_U_M_Driver1
+Change Component Designator: OldDesignator=u1_2 NewDesignator=u1_U_M_Driver2
+Change Component Designator: OldDesignator=u1_3 NewDesignator=u1_U_M_Driver3
+Added Pin To Net: NetName=SCK Pin=u1_U_M_Driver1-10
+Added Pin To Net: NetName=PS Pin=u1_U_M_Driver1-91
+Added Pin To Net: NetName=PS Pin=u1_U_M_Driver1-92
+Added Pin To Net: NetName=SCK Pin=u1_U_M_Driver2-10
+Added Pin To Net: NetName=PS Pin=u1_U_M_Driver2-91
+Added Pin To Net: NetName=PS Pin=u1_U_M_Driver2-92
+Added Pin To Net: NetName=SCK Pin=u1_U_M_Driver3-10
+Added Pin To Net: NetName=PS Pin=u1_U_M_Driver3-91
+Added Pin To Net: NetName=PS Pin=u1_U_M_Driver3-92
+Added Pin To Net: NetName=SW Pin=u5-2
+Added Pin To Net: NetName=Vin Pin=u5-14
+Added Pin To Net: NetName=PGND Pin=u5-16
+Added Member To Class: ClassName=U_M_Driver1 Member=Component u1_U_M_Driver1 (u1A) powerSTEP01

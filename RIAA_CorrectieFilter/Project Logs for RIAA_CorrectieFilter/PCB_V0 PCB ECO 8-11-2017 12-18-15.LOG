@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=c2-2
+Removed Pin From Net: NetName=GND Pin=c3-1
+Removed Pin From Net: NetName=VCC Pin=c3-2
+Change Component Comment : Designator=c3 Old Comment=100nF New Comment=100n
+Change Component Comment : Designator=c2 Old Comment=330nF New Comment=100n
+Change Component Comment : Designator=r11 Old Comment=1206 Resistor New Comment=1k
+Added Pin To Net: NetName=VCC Pin=c3-1
+Added Pin To Net: NetName=GND Pin=c3-2
+Added Room: Name=Amplifier&Filter
+Added Room: Name=Power Supply
