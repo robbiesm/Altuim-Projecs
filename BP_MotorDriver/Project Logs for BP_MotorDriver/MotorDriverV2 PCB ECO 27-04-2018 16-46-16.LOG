@@ -1,0 +1,88 @@
+Added Component: Designator=b1(Solder Bridge)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c18(TH Elco 16)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c27(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c28(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c29(1210)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c30(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c31(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c42(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5(DO-214AB (SMA))
+Add component. Clean all parameters for all variants
+Added Component: Designator=d6(D²PAK 3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(SMD Inductor 7.4x7.4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=p22(ScrewWtB-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r20(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r50(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=tp1(Test Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=u5(PWP0016G)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Relay_COM Pin=b1-2
+Added Pin To Net: NetName=GND Pin=c18-1
+Added Pin To Net: NetName=GND Pin=c28-1
+Added Pin To Net: NetName=GND Pin=c29-1
+Added Pin To Net: NetName=GND Pin=c31-1
+Added Pin To Net: NetName=GND Pin=c42-1
+Added Pin To Net: NetName=VS Pin=d6-4
+Added Pin To Net: NetName=GND Pin=p22-2
+Added Pin To Net: NetName=GND Pin=r20-1
+Added Pin To Net: NetName=GND Pin=u5-6
+Added Pin To Net: NetName=GND Pin=u5-10
+Added Pin To Net: NetName=GND Pin=u5-15
+Added Pin To Net: NetName=GND Pin=u5-16
+Added Pin To Net: NetName=GND Pin=u5-17
+Added Pin To Net: NetName=Netb1_1 Pin=b1-1
+Added Pin To Net: NetName=Netb1_1 Pin=c29-2
+Added Pin To Net: NetName=Netb1_1 Pin=c30-2
+Added Pin To Net: NetName=Netb1_1 Pin=c31-2
+Added Pin To Net: NetName=Netb1_1 Pin=L1-2
+Added Pin To Net: NetName=Netb1_1 Pin=r50-1
+Added Pin To Net: NetName=Netb1_1 Pin=tp1-1
+Added Pin To Net: NetName=Netb1_1 Pin=u5-5
+Added Net: Name=Netb1_1
+Added Pin To Net: NetName=Netc18_2 Pin=c18-2
+Added Pin To Net: NetName=Netc18_2 Pin=c42-2
+Added Pin To Net: NetName=Netc18_2 Pin=D5-1
+Added Pin To Net: NetName=Netc18_2 Pin=u5-12
+Added Pin To Net: NetName=Netc18_2 Pin=u5-13
+Added Pin To Net: NetName=Netc18_2 Pin=u5-14
+Added Net: Name=Netc18_2
+Added Pin To Net: NetName=Netc27_1 Pin=c27-1
+Added Pin To Net: NetName=Netc27_1 Pin=u5-3
+Added Net: Name=Netc27_1
+Added Pin To Net: NetName=Netc27_2 Pin=c27-2
+Added Pin To Net: NetName=Netc27_2 Pin=L1-1
+Added Pin To Net: NetName=Netc27_2 Pin=u5-1
+Added Pin To Net: NetName=Netc27_2 Pin=u5-2
+Added Net: Name=Netc27_2
+Added Pin To Net: NetName=Netc28_2 Pin=c28-2
+Added Pin To Net: NetName=Netc28_2 Pin=u5-4
+Added Net: Name=Netc28_2
+Added Pin To Net: NetName=Netc30_1 Pin=c30-1
+Added Pin To Net: NetName=Netc30_1 Pin=r20-2
+Added Pin To Net: NetName=Netc30_1 Pin=r50-2
+Added Pin To Net: NetName=Netc30_1 Pin=u5-9
+Added Net: Name=Netc30_1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=d6-1
+Added Pin To Net: NetName=NetD5_2 Pin=d6-3
+Added Pin To Net: NetName=NetD5_2 Pin=p22-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=SW Pin=u5-2
+Added Net: Name=SW
+Added Pin To Net: NetName=Vin Pin=u5-14
+Added Net: Name=Vin
+Added Class: Name=U_Power Supply

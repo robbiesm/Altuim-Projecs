@@ -1,0 +1,69 @@
+Added Component: Designator=c42(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=d7_U_M_Driver1(0603 - LED)
+Add component. Clean all parameters for all variants
+Added Component: Designator=d7_U_M_Driver2(0603 - LED)
+Add component. Clean all parameters for all variants
+Added Component: Designator=d7_U_M_Driver3(0603 - LED)
+Add component. Clean all parameters for all variants
+Added Component: Designator=d13(0603 - LED)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r45(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r46(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r47(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r48_U_M_Driver1(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r48_U_M_Driver2(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r48_U_M_Driver3(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r49(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r50(0603)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=c42-1
+Added Pin To Net: NetName=Netc18_2 Pin=c42-2
+Added Pin To Net: NetName=VREG_U_M_Driver1 Pin=d7_U_M_Driver1-1
+Added Pin To Net: NetName=Netd7_U_M_Driver1_2 Pin=d7_U_M_Driver1-2
+Added Pin To Net: NetName=VREG_U_M_Driver2 Pin=d7_U_M_Driver2-1
+Added Pin To Net: NetName=Netd7_U_M_Driver2_2 Pin=d7_U_M_Driver2-2
+Added Pin To Net: NetName=VREG_U_M_Driver3 Pin=d7_U_M_Driver3-1
+Added Pin To Net: NetName=Netd7_U_M_Driver3_2 Pin=d7_U_M_Driver3-2
+Added Pin To Net: NetName=Relay_COM Pin=d13-1
+Added Pin To Net: NetName=Netd13_2 Pin=d13-2
+Added Pin To Net: NetName=CS0 Pin=r45-1
+Added Pin To Net: NetName=Relay_COM Pin=r45-2
+Added Pin To Net: NetName=CS_FRAM Pin=r46-1
+Added Pin To Net: NetName=Relay_COM Pin=r46-2
+Added Pin To Net: NetName=FRAM_H\O\L\D\ Pin=r47-1
+Added Pin To Net: NetName=Relay_COM Pin=r47-2
+Added Pin To Net: NetName=Netr22_U_M_Driver1_2 Pin=r48_U_M_Driver1-1
+Added Pin To Net: NetName=Netd7_U_M_Driver1_2 Pin=r48_U_M_Driver1-2
+Added Pin To Net: NetName=Netr22_U_M_Driver2_2 Pin=r48_U_M_Driver2-1
+Added Pin To Net: NetName=Netd7_U_M_Driver2_2 Pin=r48_U_M_Driver2-2
+Added Pin To Net: NetName=Netr22_U_M_Driver3_2 Pin=r48_U_M_Driver3-1
+Added Pin To Net: NetName=Netd7_U_M_Driver3_2 Pin=r48_U_M_Driver3-2
+Added Pin To Net: NetName=Netd13_2 Pin=r49-1
+Added Pin To Net: NetName=F\L\A\G\ Pin=r49-2
+Added Pin To Net: NetName=Netb1_1 Pin=r50-1
+Added Pin To Net: NetName=Netc30_1 Pin=r50-2
+Added Pin To Net: NetName=Netc27_2 Pin=u5-2
+Added Pin To Net: NetName=SW Pin=u5-2
+Added Pin To Net: NetName=Netc18_2 Pin=u5-14
+Added Pin To Net: NetName=GND Pin=u5-16
+Added Member To Class: ClassName=U_Power Supply Member=Component c42 100n
+Added Member To Class: ClassName=U_M_Driver1 Member=Component d7_U_M_Driver1 (d7) Yellow SMD LED
+Added Member To Class: ClassName=U_M_Driver2 Member=Component d7_U_M_Driver2 (d7) Yellow SMD LED
+Added Member To Class: ClassName=U_M_Driver3 Member=Component d7_U_M_Driver3 (d7) Yellow SMD LED
+Added Member To Class: ClassName=TOP Sheet Member=Component d13 Yellow SMD LED
+Added Member To Class: ClassName=U_Controller Member=Component r45 10k
+Added Member To Class: ClassName=U_Controller Member=Component r46 10k
+Added Member To Class: ClassName=U_Controller Member=Component r47 10k
+Added Member To Class: ClassName=U_M_Driver1 Member=Component r48_U_M_Driver1 (r48) 330R
+Added Member To Class: ClassName=U_M_Driver2 Member=Component r48_U_M_Driver2 (r48) 330R
+Added Member To Class: ClassName=U_M_Driver3 Member=Component r48_U_M_Driver3 (r48) 330R
+Added Member To Class: ClassName=TOP Sheet Member=Component r49 330R
+Added Member To Class: ClassName=U_Power Supply Member=Component r50 1M

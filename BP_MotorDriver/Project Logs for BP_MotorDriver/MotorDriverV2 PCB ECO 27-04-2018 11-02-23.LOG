@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=p14 Old Footprint=TAG PROGRAMMER New Footprint=2x3-HeaderPin
+Added Pin To Net: NetName=Netc27_2 Pin=u5-2
+Added Pin To Net: NetName=Netc31_2 Pin=u5-2
+Added Pin To Net: NetName=Vin Pin=u5-14
+Added Pin To Net: NetName=PGND Pin=u5-16
+Added Member To Class: ClassName=U_M_Driver1 Member=Component d7_U_M_Driver1 (d7) Yellow SMD LED

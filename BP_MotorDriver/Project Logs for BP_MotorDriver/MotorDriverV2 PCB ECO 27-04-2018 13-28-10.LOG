@@ -1,0 +1,11 @@
+Added Component: Designator=p14(1x4-HeaderPin)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=CS0 Pin=p14-1
+Added Pin To Net: NetName=SCK Pin=p14-2
+Added Pin To Net: NetName=MOSI Pin=p14-3
+Added Pin To Net: NetName=SDO3 Pin=p14-4
+Added Pin To Net: NetName=Netc27_2 Pin=u5-2
+Added Pin To Net: NetName=SW Pin=u5-2
+Added Pin To Net: NetName=Netc18_2 Pin=u5-14
+Added Pin To Net: NetName=GND Pin=u5-16
+Added Member To Class: ClassName=U_Controller Member=Component p14 SPI

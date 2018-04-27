@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=p25_3 NewDesignator=p25_1
+Change Component Designator: OldDesignator=p25_1 NewDesignator=p25_2
+Change Component Designator: OldDesignator=p25_2 NewDesignator=p25_3
+Change Component Designator: OldDesignator=p26_3 NewDesignator=p26_1
+Change Component Designator: OldDesignator=p26_1 NewDesignator=p26_2
+Change Component Designator: OldDesignator=p26_2 NewDesignator=p26_3
+Change Component Designator: OldDesignator=tp2_3 NewDesignator=tp2_1
+Change Component Designator: OldDesignator=tp2_1 NewDesignator=tp2_2
+Change Component Designator: OldDesignator=tp2_2 NewDesignator=tp2_3
+Change Component Designator: OldDesignator=u1_3 NewDesignator=u1_1
+Change Component Designator: OldDesignator=u1_3 NewDesignator=u1_1
+Change Component Designator: OldDesignator=u1_3 NewDesignator=u1_1
+Change Component Designator: OldDesignator=u1_3 NewDesignator=u1_1
+Change Component Designator: OldDesignator=u1_1 NewDesignator=u1_2
+Change Component Designator: OldDesignator=u1_1 NewDesignator=u1_2
+Change Component Designator: OldDesignator=u1_1 NewDesignator=u1_2
+Change Component Designator: OldDesignator=u1_1 NewDesignator=u1_2
+Change Component Designator: OldDesignator=u1_2 NewDesignator=u1_3
+Change Component Designator: OldDesignator=u1_2 NewDesignator=u1_3
+Change Component Designator: OldDesignator=u1_2 NewDesignator=u1_3
+Change Component Designator: OldDesignator=u1_2 NewDesignator=u1_3
+Change Pin Designator/Name:  Old Designator=u4A-32 Old Name=PC7 New Designator =PE6 New Name=1

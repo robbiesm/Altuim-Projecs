@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=U_M_Driver1 Member=r48_U_M_Driver3
+Change Component Designator: OldDesignator=d7 NewDesignator=d7_U_M_Driver1
+Change Component Designator: OldDesignator=r48 NewDesignator=r48_U_M_Driver1
+Added Pin To Net: NetName=Netc27_2 Pin=u5-2
+Added Pin To Net: NetName=SW Pin=u5-2
+Added Pin To Net: NetName=Netc18_2 Pin=u5-14
+Added Pin To Net: NetName=GND Pin=u5-16
+Added Member To Class: ClassName=U_M_Driver1 Member=Component r48_U_M_Driver1 (r48) 330R

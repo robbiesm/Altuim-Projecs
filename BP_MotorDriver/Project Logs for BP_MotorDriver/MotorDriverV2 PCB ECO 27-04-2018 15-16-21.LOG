@@ -1,0 +1,23 @@
+Added Component: Designator=u2(TQFN-20)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Netc41_2 Pin=u2-1
+Added Pin To Net: NetName=CS1 Pin=u2-2
+Added Pin To Net: NetName=MOSI Pin=u2-3
+Added Pin To Net: NetName=SCK Pin=u2-4
+Added Pin To Net: NetName=SDO3 Pin=u2-5
+Added Pin To Net: NetName=GND Pin=u2-7
+Added Pin To Net: NetName=Relay_OUT8 Pin=u2-8
+Added Pin To Net: NetName=Relay_OUT7 Pin=u2-9
+Added Pin To Net: NetName=GND Pin=u2-10
+Added Pin To Net: NetName=Relay_OUT6 Pin=u2-11
+Added Pin To Net: NetName=Relay_OUT5 Pin=u2-12
+Added Pin To Net: NetName=Relay_COM Pin=u2-13
+Added Pin To Net: NetName=Relay_OUT4 Pin=u2-14
+Added Pin To Net: NetName=Relay_OUT3 Pin=u2-15
+Added Pin To Net: NetName=GND Pin=u2-16
+Added Pin To Net: NetName=Relay_OUT2 Pin=u2-17
+Added Pin To Net: NetName=Relay_OUT1 Pin=u2-18
+Added Pin To Net: NetName=Relay_COM Pin=u2-19
+Added Pin To Net: NetName=Netc27_2 Pin=u5-2
+Added Pin To Net: NetName=Vin Pin=u5-14
+Added Member To Class: ClassName=U_Relais sheet Member=Component u2 MAX4820ETP

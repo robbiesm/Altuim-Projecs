@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=FRAM_H\O\L\D\ Pin=r47-1
+Removed Member From Class: ClassName=U_M_Driver2 Member=r48
+Removed Member From Class: ClassName=U_M_Driver3 Member=r48
+Change Component Designator: OldDesignator=r48 NewDesignator=r48_U_M_Driver1
+Change Component Designator: OldDesignator=r48 NewDesignator=r48_U_M_Driver2
+Change Component Designator: OldDesignator=r48 NewDesignator=r48_U_M_Driver3
+Added Component: Designator=p14(TAG PROGRAMMER)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=MOSI Pin=p14-1
+Added Pin To Net: NetName=Relay_COM Pin=p14-2
+Added Pin To Net: NetName=SCK Pin=p14-3
+Added Pin To Net: NetName=SDO3 Pin=p14-4
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=p14-5
+Added Pin To Net: NetName=GND Pin=p14-6
+Added Pin To Net: NetName=CS1 Pin=r47-1
+Added Pin To Net: NetName=Netc27_2 Pin=u5-2
+Added Pin To Net: NetName=Netc31_2 Pin=u5-2
+Added Pin To Net: NetName=Vin Pin=u5-14
+Added Pin To Net: NetName=PGND Pin=u5-16
+Added Member To Class: ClassName=TOP Sheet Member=Component p14 TC2030-MCP-NL
+Added Member To Class: ClassName=U_M_Driver2 Member=Component r48_U_M_Driver2 (r48) 330R
+Added Member To Class: ClassName=U_M_Driver3 Member=Component r48_U_M_Driver3 (r48) 330R

@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=Relay_COM Pin=b1-2
+Removed Pin From Net: NetName=GND Pin=c18-1
+Removed Pin From Net: NetName=GND Pin=c28-1
+Removed Pin From Net: NetName=GND Pin=c29-1
+Removed Pin From Net: NetName=GND Pin=c31-1
+Removed Pin From Net: NetName=GND Pin=c42-1
+Removed Pin From Net: NetName=VS Pin=D6-4
+Removed Pin From Net: NetName=GND Pin=p22-2
+Removed Pin From Net: NetName=GND Pin=r20-1
+Removed Pin From Net: NetName=GND Pin=u5-6
+Removed Pin From Net: NetName=GND Pin=u5-10
+Removed Pin From Net: NetName=GND Pin=u5-15
+Removed Pin From Net: NetName=GND Pin=u5-16
+Removed Pin From Net: NetName=GND Pin=u5-17
+Removed Pin From Net: NetName=Netr2_1 Pin=u6-1
+Removed Pin From Net: NetName=Netr3_1 Pin=u6-3
+Removed Pin From Net: NetName=Netp1_2 Pin=u6-4
+Removed Pin From Net: NetName=Netp1_3 Pin=u6-6
+Added Pin To Net: NetName=Netr3_1 Pin=u6-1
+Added Pin To Net: NetName=Netr2_1 Pin=u6-3
+Added Pin To Net: NetName=Netp1_3 Pin=u6-4
+Added Pin To Net: NetName=Netp1_2 Pin=u6-6
+Change Net Name : Old Net Name=D+ New Net Name=USB_P
+Change Net Name : Old Net Name=D- New Net Name=USB_N
+Added Differential Pair: Name=USB
+Added Member To Class: ClassName=U_Controller Member=Component f1 Fuse 500mA
+Added Member To Class: ClassName=U_Controller Member=Component fb1 0603 Ferrite Bead
+Added Member To Class: ClassName=U_Controller Member=Component p1 Micro USB Type B
+Added Member To Class: ClassName=U_Controller Member=Component r2 22R
+Added Member To Class: ClassName=U_Controller Member=Component r3 22R
+Added Member To Class: ClassName=U_Controller Member=Component u6 USBLC6-2SC6
+Added Member To Class: ClassName=U_Controller Member=Component vr1 CG0603MLC-05E
+Added Member To Class: ClassName=U_Controller Member=Component vr2 CG0603MLC-05E

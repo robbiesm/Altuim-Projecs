@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=Netp25_3_U_M_Driver1_1 Pin=p25-1
+Removed Pin From Net: NetName=PGND Pin=p25-2
+Removed Pin From Net: NetName=Netp25_3_U_M_Driver2_1 Pin=p25_3_U_M_Driver2-1
+Removed Pin From Net: NetName=PGND Pin=p25_3_U_M_Driver2-2
+Removed Pin From Net: NetName=Netp25_3_U_M_Driver3_1 Pin=p25_3_U_M_Driver3-1
+Removed Pin From Net: NetName=PGND Pin=p25_3_U_M_Driver3-2
+Removed Pin From Net: NetName=Netp26_3_U_M_Driver1_1 Pin=p26_3_U_M_Driver1-1
+Removed Pin From Net: NetName=PGND Pin=p26_3_U_M_Driver1-2
+Removed Pin From Net: NetName=Netp26_3_U_M_Driver2_1 Pin=p26_3_U_M_Driver2-1
+Removed Pin From Net: NetName=PGND Pin=p26_3_U_M_Driver2-2
+Removed Pin From Net: NetName=Netp26_3_U_M_Driver3_1 Pin=p26_3_U_M_Driver3-1
+Removed Pin From Net: NetName=PGND Pin=p26_3_U_M_Driver3-2
+Removed Member From Class: ClassName=U_M_Driver2 Member=p25_3_U_M_Driver2
+Removed Member From Class: ClassName=U_M_Driver3 Member=p25_3_U_M_Driver3
+Removed Member From Class: ClassName=U_M_Driver1 Member=p25
+Removed Member From Class: ClassName=U_M_Driver1 Member=p26_3_U_M_Driver1
+Removed Member From Class: ClassName=U_M_Driver2 Member=p26_3_U_M_Driver2
+Removed Member From Class: ClassName=U_M_Driver3 Member=p26_3_U_M_Driver3
+Added Pin To Net: NetName=Netc27_2 Pin=u5-2
+Added Pin To Net: NetName=SW Pin=u5-2
+Added Pin To Net: NetName=Netc18_2 Pin=u5-14
+Added Pin To Net: NetName=GND Pin=u5-16
+Change Net Name : Old Net Name=Netp25_3_U_M_Driver1_1 New Net Name=Netr17_U_M_Driver1_2
+Change Net Name : Old Net Name=Netp25_3_U_M_Driver2_1 New Net Name=Netr17_U_M_Driver2_2
+Change Net Name : Old Net Name=Netp25_3_U_M_Driver3_1 New Net Name=Netr17_U_M_Driver3_2
+Change Net Name : Old Net Name=Netp26_3_U_M_Driver1_1 New Net Name=Netr18_U_M_Driver1_2
+Change Net Name : Old Net Name=Netp26_3_U_M_Driver2_1 New Net Name=Netr18_U_M_Driver2_2
+Change Net Name : Old Net Name=Netp26_3_U_M_Driver3_1 New Net Name=Netr18_U_M_Driver3_2
+Change Net Name : Old Net Name=Nettp2_3_U_M_Driver1_1 New Net Name=Nettp2_U_M_Driver1_1
+Change Net Name : Old Net Name=Nettp2_3_U_M_Driver2_1 New Net Name=Nettp2_U_M_Driver2_1
+Change Net Name : Old Net Name=Nettp2_3_U_M_Driver3_1 New Net Name=Nettp2_U_M_Driver3_1

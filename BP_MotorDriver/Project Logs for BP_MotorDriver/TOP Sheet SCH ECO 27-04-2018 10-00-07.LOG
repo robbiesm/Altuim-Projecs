@@ -1,0 +1,27 @@
+Change Component Footprint: Designator=p14 Old Footprint=2x3-HeaderPin New Footprint=TAG PROGRAMMER
+Change Component Comment: Designator=p14 Old Comment=ISP New Comment=TC2030-MCP-NL
+Change Component Designator: OldDesignator=p25_3 NewDesignator=p25_1
+Change Component Designator: OldDesignator=p25_1 NewDesignator=p25_2
+Change Component Designator: OldDesignator=p25_2 NewDesignator=p25_3
+Change Component Designator: OldDesignator=p26_3 NewDesignator=p26_1
+Change Component Designator: OldDesignator=p26_1 NewDesignator=p26_2
+Change Component Designator: OldDesignator=p26_2 NewDesignator=p26_3
+Change Component Designator: OldDesignator=tp2_3 NewDesignator=tp2_1
+Change Component Designator: OldDesignator=tp2_1 NewDesignator=tp2_2
+Change Component Designator: OldDesignator=tp2_2 NewDesignator=tp2_3
+Change Component Designator: OldDesignator=u1_3 NewDesignator=u1_1
+Change Component Designator: OldDesignator=u1_3 NewDesignator=u1_1
+Change Component Designator: OldDesignator=u1_3 NewDesignator=u1_1
+Change Component Designator: OldDesignator=u1_3 NewDesignator=u1_1
+Change Component Designator: OldDesignator=u1_1 NewDesignator=u1_2
+Change Component Designator: OldDesignator=u1_1 NewDesignator=u1_2
+Change Component Designator: OldDesignator=u1_1 NewDesignator=u1_2
+Change Component Designator: OldDesignator=u1_1 NewDesignator=u1_2
+Change Component Designator: OldDesignator=u1_2 NewDesignator=u1_3
+Change Component Designator: OldDesignator=u1_2 NewDesignator=u1_3
+Change Component Designator: OldDesignator=u1_2 NewDesignator=u1_3
+Change Component Designator: OldDesignator=u1_2 NewDesignator=u1_3
+Add Pin To Net: Pin=p14-1 Old Net=Netp14_1 New Net=SDI1
+Add Pin To Net: Pin=p14-3 Old Net=Netp14_3 New Net=SCK
+Add Pin To Net: Pin=p14-4 Old Net=Netp14_4 New Net=SDO3
+Add Pin To Net: Pin=p14-5 Old Net=Netp14_5 New Net=R\E\S\E\T\

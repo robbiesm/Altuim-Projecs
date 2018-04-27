@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=Netc27_2 Pin=u5-2
+Added Pin To Net: NetName=Netc18_2 Pin=u5-14
+Change Net Name : Old Net Name=Netc18_2 New Net Name=VIN
+Change Net Name : Old Net Name=NetD5_2 New Net Name=PS

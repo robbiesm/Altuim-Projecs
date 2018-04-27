@@ -1,0 +1,26 @@
+Remove Pin=p?-1 From Net=MISO
+Remove Pin=p?-4 From Net=MOSI
+Change Component Designator: OldDesignator=p25 NewDesignator=p25_1
+Change Component Designator: OldDesignator=p25_1 NewDesignator=p25_2
+Change Component Designator: OldDesignator=p25_2 NewDesignator=p25_3
+Change Component Designator: OldDesignator=p26 NewDesignator=p26_1
+Change Component Designator: OldDesignator=p26_1 NewDesignator=p26_2
+Change Component Designator: OldDesignator=p26_2 NewDesignator=p26_3
+Change Component Designator: OldDesignator=tp2 NewDesignator=tp2_1
+Change Component Designator: OldDesignator=tp2_1 NewDesignator=tp2_2
+Change Component Designator: OldDesignator=tp2_2 NewDesignator=tp2_3
+Change Component Designator: OldDesignator=u1 NewDesignator=u1_1
+Change Component Designator: OldDesignator=u1 NewDesignator=u1_1
+Change Component Designator: OldDesignator=u1 NewDesignator=u1_1
+Change Component Designator: OldDesignator=u1 NewDesignator=u1_1
+Change Component Designator: OldDesignator=u1_1 NewDesignator=u1_2
+Change Component Designator: OldDesignator=u1_1 NewDesignator=u1_2
+Change Component Designator: OldDesignator=u1_1 NewDesignator=u1_2
+Change Component Designator: OldDesignator=u1_1 NewDesignator=u1_2
+Change Component Designator: OldDesignator=u1_2 NewDesignator=u1_3
+Change Component Designator: OldDesignator=u1_2 NewDesignator=u1_3
+Change Component Designator: OldDesignator=u1_2 NewDesignator=u1_3
+Change Component Designator: OldDesignator=u1_2 NewDesignator=u1_3
+Change Pin Designator/Name:  Old Designator=u4A-1 Old Name=PE6 New Designator =PC6 New Name=31
+Change Pin Designator/Name:  Old Designator=u4A-31 Old Name=PC6 New Designator =PE6 New Name=1
+Change Pin Designator/Name:  Old Designator=u5-5 Old Name=BIAS New Designator =SW New Name=2

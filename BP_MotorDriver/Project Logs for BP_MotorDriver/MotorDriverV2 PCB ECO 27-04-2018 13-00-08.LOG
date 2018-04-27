@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=Netc27_2 Pin=u5-2
+Added Pin To Net: NetName=Netc31_2 Pin=u5-2
+Added Pin To Net: NetName=Vin Pin=u5-14
+Added Pin To Net: NetName=PGND Pin=u5-16
