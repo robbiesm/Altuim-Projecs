@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\robbi\Documents\GitHub\Altuim-Projecs\BP_MotorDriver\MotorDriverV2.PcbDoc
 Date     : 30/04/2018
-Time     : 15:38:22
+Time     : 16:13:46
 
 Processing Rule : Clearance Constraint (Gap=0.102mm) (All),(All)
 Rule Violations :0
@@ -49,19 +49,23 @@ Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-   Violation between Net Antennae: Via (148.65mm,3.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (152.65mm,3.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (152.65mm,7.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (148.65mm,7.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (3.95mm,94.1mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (7.95mm,94.1mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (7.95mm,98.1mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (3.95mm,98.1mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (3.1mm,2.9mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (7.1mm,2.9mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (7.1mm,6.9mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (3.1mm,6.9mm) from Top Layer to Bottom Layer 
-Rule Violations :12
+   Violation between Net Antennae: Via (152.2mm,94.5mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (156.2mm,94.5mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (156.2mm,98.5mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (152.2mm,98.5mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (152.15mm,2.6mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (156.15mm,2.6mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (156.15mm,6.6mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (152.15mm,6.6mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (2.9mm,94.35mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (6.9mm,94.35mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (6.9mm,98.35mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (2.9mm,98.35mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (2.973mm,3.027mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (6.973mm,3.027mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (6.973mm,7.027mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (2.973mm,7.027mm) from Top Layer to Bottom Layer 
+Rule Violations :16
 
 Processing Rule : Room U_M_Driver2 (Bounding Region = (76.6mm, 27.7mm, 125.546mm, 72.5mm) (InComponentClass('U_M_Driver2'))
 Rule Violations :0
@@ -76,5 +80,5 @@ Processing Rule : Height Constraint (Min=0mm) (Max=1000mm) (Prefered=10mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 12
-Time Elapsed        : 00:00:06
+Violations Detected : 16
+Time Elapsed        : 00:00:05

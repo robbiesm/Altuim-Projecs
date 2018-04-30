@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CS0 Pin=SPI-1
+Removed Pin From Net: NetName=SCK Pin=SPI-2
+Removed Pin From Net: NetName=MOSI Pin=SPI-3
+Removed Pin From Net: NetName=SDO3 Pin=SPI-4
+Removed Member From Class: ClassName=U_Controller Member=SPI
