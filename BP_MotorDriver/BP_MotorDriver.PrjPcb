@@ -742,6 +742,94 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for BP_MotorDriver\Design Rule Check - MotorDriverV2.html
 DItemRevisionGUID=
 
+[GeneratedDocument3]
+DocumentPath=Project Outputs for BP_MotorDriver\NC Drill\MotorDriverV2.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for BP_MotorDriver\Gerber\MotorDriverV2.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for BP_MotorDriver\Gerber\MotorDriverV2.G1
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for BP_MotorDriver\Gerber\MotorDriverV2.G2
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for BP_MotorDriver\Gerber\MotorDriverV2.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for BP_MotorDriver\Gerber\MotorDriverV2.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for BP_MotorDriver\Gerber\MotorDriverV2.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for BP_MotorDriver\Gerber\MotorDriverV2.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for BP_MotorDriver\Gerber\MotorDriverV2.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for BP_MotorDriver\Gerber\MotorDriverV2.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for BP_MotorDriver\Gerber\MotorDriverV2.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for BP_MotorDriver\Gerber\MotorDriverV2.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for BP_MotorDriver\Gerber\MotorDriverV2.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for BP_MotorDriver\Gerber\MotorDriverV2.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for BP_MotorDriver\Gerber\MotorDriverV2.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for BP_MotorDriver\Gerber\MotorDriverV2.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for BP_MotorDriver\Gerber\MotorDriverV2.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for BP_MotorDriver\Gerber\MotorDriverV2.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for BP_MotorDriver\NC Drill\MotorDriverV2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for BP_MotorDriver\Gerber\MotorDriverV2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for BP_MotorDriver\Gerber\MotorDriverV2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for BP_MotorDriver\NC Drill\MotorDriverV2.TXT
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\..\Library\*.*
 IncludeSubFolders=1

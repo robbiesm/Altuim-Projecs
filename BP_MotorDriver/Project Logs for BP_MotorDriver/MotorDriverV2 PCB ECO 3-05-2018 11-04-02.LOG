@@ -1,0 +1,40 @@
+Removed Member From Class: ClassName=U_M_Driver1 Member=SW1_1
+Removed Member From Class: ClassName=U_M_Driver2 Member=SW1_2
+Removed Member From Class: ClassName=U_M_Driver3 Member=SW1_3
+Added Component: Designator=tp2_U_M_Driver1(Test Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=tp2_U_M_Driver2(Test Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=tp2_U_M_Driver3(Test Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=tp3_U_M_Driver1(Test Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=tp3_U_M_Driver2(Test Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=tp3_U_M_Driver3(Test Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=tp4_U_M_Driver1(Test Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=tp4_U_M_Driver2(Test Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=tp4_U_M_Driver3(Test Point)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Netc16_U_M_Driver1_1 Pin=tp2_U_M_Driver1-1
+Added Pin To Net: NetName=Netc16_U_M_Driver2_1 Pin=tp2_U_M_Driver2-1
+Added Pin To Net: NetName=Netc16_U_M_Driver3_1 Pin=tp2_U_M_Driver3-1
+Added Pin To Net: NetName=VREG_U_M_Driver1 Pin=tp3_U_M_Driver1-1
+Added Pin To Net: NetName=VREG_U_M_Driver2 Pin=tp3_U_M_Driver2-1
+Added Pin To Net: NetName=VREG_U_M_Driver3 Pin=tp3_U_M_Driver3-1
+Added Pin To Net: NetName=Netc13_U_M_Driver1_2 Pin=tp4_U_M_Driver1-1
+Added Pin To Net: NetName=Netc13_U_M_Driver2_2 Pin=tp4_U_M_Driver2-1
+Added Pin To Net: NetName=Netc13_U_M_Driver3_2 Pin=tp4_U_M_Driver3-1
+Added Pin To Net: NetName=SW Pin=u5-2
+Added Member To Class: ClassName=U_M_Driver1 Member=Component tp2_U_M_Driver1 (tp2) Test Point
+Added Member To Class: ClassName=U_M_Driver2 Member=Component tp2_U_M_Driver2 (tp2) Test Point
+Added Member To Class: ClassName=U_M_Driver3 Member=Component tp2_U_M_Driver3 (tp2) Test Point
+Added Member To Class: ClassName=U_M_Driver1 Member=Component tp3_U_M_Driver1 (tp3) Test Point
+Added Member To Class: ClassName=U_M_Driver2 Member=Component tp3_U_M_Driver2 (tp3) Test Point
+Added Member To Class: ClassName=U_M_Driver3 Member=Component tp3_U_M_Driver3 (tp3) Test Point
+Added Member To Class: ClassName=U_M_Driver1 Member=Component tp4_U_M_Driver1 (tp4) Test Point
+Added Member To Class: ClassName=U_M_Driver2 Member=Component tp4_U_M_Driver2 (tp4) Test Point
+Added Member To Class: ClassName=U_M_Driver3 Member=Component tp4_U_M_Driver3 (tp4) Test Point

@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\robbi\Documents\GitHub\Altuim-Projecs\BP_MotorDriver\MotorDriverV2.PcbDoc
-Date     : 30/04/2018
-Time     : 16:13:46
+Date     : 3/05/2018
+Time     : 12:04:51
 
-Processing Rule : Clearance Constraint (Gap=0.102mm) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -49,26 +49,24 @@ Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-   Violation between Net Antennae: Via (152.2mm,94.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (156.2mm,94.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (156.2mm,98.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (152.2mm,98.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (152.15mm,2.6mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (156.15mm,2.6mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (156.15mm,6.6mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (152.15mm,6.6mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (2.9mm,94.35mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (6.9mm,94.35mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (6.9mm,98.35mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (2.9mm,98.35mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (2.973mm,3.027mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (6.973mm,3.027mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (6.973mm,7.027mm) from Top Layer to Bottom Layer 
    Violation between Net Antennae: Via (2.973mm,7.027mm) from Top Layer to Bottom Layer 
-Rule Violations :16
-
-Processing Rule : Room U_M_Driver2 (Bounding Region = (76.6mm, 27.7mm, 125.546mm, 72.5mm) (InComponentClass('U_M_Driver2'))
-Rule Violations :0
+   Violation between Net Antennae: Via (6.973mm,7.027mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (6.973mm,3.027mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (2.973mm,3.027mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (2.9mm,98.35mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (6.9mm,98.35mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (6.9mm,94.35mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (2.9mm,94.35mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (154.15mm,1.6mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (152.15mm,6.6mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (156.15mm,6.6mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (156.15mm,2.6mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (152.15mm,2.6mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (152.2mm,98.5mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (156.2mm,98.5mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (156.2mm,94.5mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (152.2mm,94.5mm) from Top Layer to Bottom Layer 
+Rule Violations :17
 
 Processing Rule : Room U_M_Driver3 (Bounding Region = (126.3mm, 27.65mm, 175.246mm, 72.45mm) (InComponentClass('U_M_Driver3'))
 Rule Violations :0
@@ -76,9 +74,12 @@ Rule Violations :0
 Processing Rule : Room U_M_Driver1 (Bounding Region = (26.734mm, 27.7mm, 75.68mm, 72.5mm) (InComponentClass('U_M_Driver1'))
 Rule Violations :0
 
+Processing Rule : Room U_M_Driver2 (Bounding Region = (76.6mm, 27.7mm, 125.546mm, 72.5mm) (InComponentClass('U_M_Driver2'))
+Rule Violations :0
+
 Processing Rule : Height Constraint (Min=0mm) (Max=1000mm) (Prefered=10mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 16
-Time Elapsed        : 00:00:05
+Violations Detected : 17
+Time Elapsed        : 00:00:06
