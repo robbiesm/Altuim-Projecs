@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=H1-0
+Removed Pin From Net: NetName=GND Pin=H2-0
+Removed Pin From Net: NetName=GND Pin=H3-0
+Removed Pin From Net: NetName=GND Pin=H4-0
+Removed Pin From Net: NetName=Relay_COM Pin=p20-3
+Removed Pin From Net: NetName=Relay_COM Pin=p21-3
+Removed Pin From Net: NetName=SDO3 Pin=u2-5
+Added Pin To Net: NetName=SW_O Pin=u5-2
+Change Net Name : Old Net Name=Relay_COM New Net Name=3v3
+Added Pin To Net: NetName=Netu2_5 Pin=u2-5
+Added Net: Name=Netu2_5
+Added Pin To Net: NetName=Relay_COM Pin=p20-3
+Added Pin To Net: NetName=Relay_COM Pin=p21-3
+Added Net: Name=Relay_COM
