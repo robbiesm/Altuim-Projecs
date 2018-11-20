@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=BP_MotorDriver.OutJob
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
-TargetPrinter=HP Photosmart 5520 series
+TargetPrinter=Brother HL-2250DN series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -247,9 +247,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\HP-wx6600\Documents\GitHub\Altuim-Projecs\BP_MotorDriver\Project Outputs for BP_MotorDriver\
-ReleaseManaged3=1
-OutputBasePath3=Project Outputs for BP_MotorDriver
+OutputFilePath3=C:\Users\robbi\Documents\GitHub\Altuim-Projecs\BP_MotorDriver\.\
+ReleaseManaged3=0
+OutputBasePath3=.\
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -301,7 +301,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=C:\Users\HP-wx6600\Documents\GitHub\Altuim-Projecs\BP_MotorDriver\Project Outputs for BP_MotorDriver\BP_MotorDriverRev2-1.pdf
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\HP-wx6600\Documents\GitHub\Altuim-Projecs\BP_MotorDriver\Project Outputs for BP_MotorDriver\
+RelativeOutputPath3=C:\Users\robbi\Documents\GitHub\Altuim-Projecs\BP_MotorDriver\.\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
